@@ -2,11 +2,11 @@
 <div>
   <b-navbar toggleable="md" type="dark" variant="info">
 
-  <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-
   <b-navbar-brand href="/">
         <img src="~/assets/GLAMMY_FAVICON.svg" aria-label="Glammy" class="logo" width="40" height="40">Glammy
   </b-navbar-brand>
+
+  <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
   <b-collapse is-nav id="nav_collapse">
 
