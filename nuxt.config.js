@@ -7,21 +7,23 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: pkg.name,
+    title: 'Glammy Modelos y Edecanes',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: pkg.description }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:300,400,700' },
+      { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.6.0/css/all.css', integrity:'sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h', crossorigin:'anonymous' }
     ]
   },
 
   /*
   ** Customize the progress-bar color
   */
-  loading: { color: '#fff' },
+  loading: { color: '#00FF00' },
 
   /*
   ** Global CSS
@@ -33,14 +35,25 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    
   ],
 
   /*
   ** Nuxt.js modules
   */
-  modules: [,
+  modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
+    ['nuxt-fontawesome', {
+      component: 'fa',
+      imports: [
+        {
+          set: '@fortawesome/free-solid-svg-icons',
+          icons: ['faDollarSign']
+        }
+      ]
+    }]
+      
   ],
 
   /*
