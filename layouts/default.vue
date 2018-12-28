@@ -1,6 +1,7 @@
 <template>
-<div>
-  <b-navbar toggleable="md" type="dark" variant="info">
+<div class="portada">
+  
+  <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand href="/">
         <img src="~/assets/GLAMMY_FAVICON.svg" aria-label="Glammy" class="logo" width="40" height="40">Glammy
@@ -22,8 +23,8 @@
 </b-navbar>
 
 <!-- navbar-1.vue -->
-  
-    <nuxt/>
+      <nuxt/>
+    
   </div>
 </template>
 
@@ -75,5 +76,12 @@ body{
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
+}
+.portada{
+  background-image: url("~assets/GLAMMY_background1.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-height: 100vh;
 }
 </style>

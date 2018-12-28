@@ -1,13 +1,14 @@
 <template>
-  <section >
+<div>
+  <section class="header">
     <div class="container">
       <div>
-      <logo/>
+      
       <h1 class="title">
-        glammy
+        Glammy
       </h1>
       <h2 class="subtitle">
-        My stupendous Nuxt.js project
+        Modelos y Edecanes
       </h2>
       <div class="links">
         <a
@@ -21,8 +22,8 @@
       </div>
     </div>
     </div>
-  
-  <div class="descripcion">
+  </section>
+  <section class="descripcion">
     <b-container>
       <b-row align-h="center">
         <b-col sm="8">
@@ -46,20 +47,20 @@
         
     </b-row>
     </b-container>
-  </div>
-  <site-footer/>
-  </section>
   
+  </section>
+  <site-footer/>
+  
+  </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+
 import SiteFooter from '~/components/SiteFooter.vue'
 
 
 export default {
   components: {
-    Logo,
     SiteFooter
   }
 }
