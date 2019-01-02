@@ -2,25 +2,17 @@
 <div>
   <section class="header">
     <div class="container">
-      <div>
-      
-      <h1 class="title">
-        Glammy
-      </h1>
-      <h2 class="subtitle">
-        Modelos y Edecanes
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
-      </div>
-    </div>
+      <b-jumbotron  header="Más éxito para
+tu evento" lead="Somos una joven agencia de modelos y
+edecanes ubicada en Matagalpa,
+Nicaragua. Te ayudamos a presentar tu
+marca o evento de manera exitosa,
+encantar a tus clientes y comunicarles
+correctamente el mensaje de tus
+productos o servicios." >
+            <p>For more information visit website</p>
+            <b-btn variant="primary" href="#">More Info</b-btn>
+      </b-jumbotron>
     </div>
   </section>
   <section class="descripcion">
@@ -68,12 +60,18 @@ export default {
 
 <style>
 
+.header .container{
+  justify-content: left;
+}
 .container {
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  text-align: left;
+}
+.jumbotron{
+  max-width: 500px;;
 }
 
 .title {
