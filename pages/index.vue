@@ -71,7 +71,8 @@ export default {
   text-align: left;
 }
 .jumbotron{
-  max-width: 500px;;
+  max-width: 500px;
+  background-color: transparent;
 }
 
 .title {
