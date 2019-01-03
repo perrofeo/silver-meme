@@ -92,16 +92,18 @@ export default {
 
 
 <style>
-
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
 .header .container{
-  justify-content: left;
+  justify-content: center;
 }
 .container {
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: left;
+  text-align: center;
 }
 .jumbotron{
   max-width: 500px;
