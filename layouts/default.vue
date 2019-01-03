@@ -63,4 +63,9 @@ body{
     background-position: center;
     min-height: 100vh;
 }
+.display-3 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
 </style>
