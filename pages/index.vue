@@ -92,9 +92,7 @@ export default {
 
 
 <style>
-.navbar-light .navbar-nav .nav-link {
-    color: white;
-}
+
 .header .container{
   justify-content: center;
 }

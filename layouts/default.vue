@@ -56,6 +56,10 @@ body{
   color: #fff;
   background-color: #35495e;
 }
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
 .portada{
   
     background-size: cover;
