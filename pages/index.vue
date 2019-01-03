@@ -42,31 +42,61 @@ productos o servicios." >
     </div>
   </section>
   </div>
-  <section class="descripcion">
+  <section class="servicios">
     <b-container>
       <b-row align-h="center">
-        <b-col sm="8">
+        <b-col sm="10" md="12" >
           
-          <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+          
 
-            <div class="links">
-        <a
-          href="#"
-          class="button--grey">Servicios</a>
-          <a
-          href="#"
-          class="button--grey">Portafolio</a>
-      </div>
+     <b-card>
+  <b-media vertical-align="center">
+    <img class="d-none d-md-block"  slot="aside" src="~/assets/modelos.jpg"  alt="placeholder" />
+    <b-media-body class="left">
+    <h5 class="mt-0">Encanta a tus clientes</h5>
+    <p>
+      En este texto hacer un resumen más específico
+de los servicios de Glammy Agencia de
+Modelos y Edecanes. Las modelos, los
+uniformes, el sonido, eventos creativos.
+    </p>
+    <b-btn variant="primary" href="#">Servicios</b-btn>
+    </b-media-body>
+  </b-media>
+</b-card>
+     <b-card>
+  <b-media right-align vertical-align="center">
+    <img class="d-none d-md-block" slot="aside" src="~/assets/modelos.jpg"  alt="placeholder" />
+    <b-media-body class="right">
+    <h5 class="mt-0">Agrega valor a tu marca</h5>
+    <p>
+      En este texto hacer un resumen más específico
+de los servicios de Glammy Agencia de
+Modelos y Edecanes. Las modelos, los
+uniformes, el sonido, eventos creativos.
+    </p>
+    <b-btn variant="primary" href="#">Portafolio</b-btn>
+    </b-media-body>
+  </b-media>
+</b-card>
           
           </b-col>
         
     </b-row>
     </b-container>
   
+  </section>
+  <section class="contacto">
+    <b-card title="Más éxito para tu evento"
+            sub-title="Card subtitle"
+            class="text-center">
+        <p class="card-text">
+            Somos una joven agencia de modelos y edecanes ubicada en Matagalpa, Nicaragua. 
+            Te ayudamos a presentar tu marca o evento de manera exitosa, 
+            encantar a tus clientes y comunicarles correctamente el mensaje de tus productos o servicios.
+        </p>
+        <b-btn variant="primary" href="#">+ Info</b-btn>
+    </b-card>
   </section>
   <site-footer/>
   
@@ -124,7 +154,22 @@ export default {
   padding-bottom: 15px;
 }
 
-.links {
-  padding-top: 15px;
+.servicios img{
+   max-width: 400px;
+   height: 100%;
+   width:100%;
+}
+.right{
+  text-align:right;
+}
+.left{
+  text-align:left;
+}
+.contacto .card{
+  max-width: 600px;
+}
+.contacto{
+  display: flex;
+  justify-content: center;
 }
 </style>
