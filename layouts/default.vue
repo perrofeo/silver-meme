@@ -68,4 +68,8 @@ body{
     font-weight: 700;
     line-height: 1.2;
 }
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
 </style>
