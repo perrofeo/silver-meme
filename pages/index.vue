@@ -36,7 +36,7 @@ marca o evento de manera exitosa,
 encantar a tus clientes y comunicarles
 correctamente el mensaje de tus
 productos o servicios." >
-            <p>For more information visit website</p>
+            
             <b-btn variant="primary" href="#">More Info</b-btn>
       </b-jumbotron>
     </div>
