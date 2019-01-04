@@ -91,7 +91,7 @@ import SiteFooter from '~/components/SiteFooter.vue'
 export default {
 components:{
     SiteFooter
-}
+   }
 }
 </script>
 <style scoped>
