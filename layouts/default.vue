@@ -25,8 +25,9 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
 body{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 .page-enter-active, .page-leave-active {
   transition: opacity .5s

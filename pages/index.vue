@@ -4,7 +4,7 @@
   
   <b-navbar toggleable="md" type="light" variant="">
 
-  <b-navbar-brand href="/">
+  <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
   </b-navbar-brand>
 
