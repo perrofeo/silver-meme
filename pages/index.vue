@@ -14,10 +14,10 @@
 
     <!-- Right aligned nav items -->
     <b-navbar-nav class="ml-auto">
-       <b-nav-item href="/">Inicio</b-nav-item>
+       <b-nav-item to="/">Inicio</b-nav-item>
        <b-nav-item to="/servicios">Servicios</b-nav-item>
-       <b-nav-item href="#">Portafolio</b-nav-item>
-       <b-nav-item href="#">Contacto</b-nav-item>
+       <b-nav-item to="/portafolio">Portafolio</b-nav-item>
+       <b-nav-item to="/contacto">Contacto</b-nav-item>
 
     </b-navbar-nav>
 
@@ -117,9 +117,11 @@ export default {
 <style scoped>
    .portada{
   background-image: url("~assets/GLAMMY_background_HOME.svg");
+  min-height: 100vh;
+  background-position: center;
    }
   .container{
-    min-height: 100vh;
+    min-height: 90vh;
   }
 
 </style>

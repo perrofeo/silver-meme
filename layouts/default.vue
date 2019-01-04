@@ -98,8 +98,8 @@ body{
   
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-    min-height: 100vh;
+    
+    
 }
 .display-3 {
     font-size: 3rem;

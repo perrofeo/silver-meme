@@ -100,6 +100,8 @@ components:{
 }
     .portada{
          background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
+         min-height: 100vh;
+         background-position: center;
     }
     #servicios h1{
       margin: 60px 0 50px;
