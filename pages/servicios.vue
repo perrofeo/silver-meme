@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="portada servicios">
+    <div id="servicios" class="portada">
   
   <b-navbar toggleable="md" type="light" variant="">
 
@@ -14,17 +14,18 @@
 
     <!-- Right aligned nav items -->
     <b-navbar-nav class="ml-auto">
-       <b-nav-item href="/">Inicio</b-nav-item>
-       <b-nav-item href="/servicios">Servicios</b-nav-item>
-       <b-nav-item href="#">Portafolio</b-nav-item>
-       <b-nav-item href="#">Contacto</b-nav-item>
+       <b-nav-item to="/">Inicio</b-nav-item>
+       <b-nav-item to="/servicios">Servicios</b-nav-item>
+       <b-nav-item to="/portafolio">Portafolio</b-nav-item>
+       <b-nav-item to="/contacto">Contacto</b-nav-item>
 
     </b-navbar-nav>
 
   </b-collapse>
 </b-navbar>
-    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
     <h1>Servicios</h1>
+    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
+    
     <b-row align-v="center">
         <b-col md="6" lg="4"><div>
     <b-card class="m-2"
@@ -94,11 +95,15 @@ components:{
 }
 </script>
 <style scoped>
+.container{
+  min-height: 50vh;
+}
     .portada{
          background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
     }
-    .servicios h1{
-      margin: 60px 0 100px;
+    #servicios h1{
+      margin: 60px 0 50px;
+      text-align: center;
     }
     
 </style>
