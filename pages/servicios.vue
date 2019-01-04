@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="portada">
+    <div class="portada servicios">
   
   <b-navbar toggleable="md" type="light" variant="">
 
@@ -23,23 +23,54 @@
 
   </b-collapse>
 </b-navbar>
+    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
     <h1>Servicios</h1>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
-    <h2>Servicios</h2>
+    <b-row align-v="center">
+        <b-col md="6" lg="4"><div>
+    <b-card class="m-2"
+            title="Card title"
+            sub-title="Card subtitle">
+        <p class="card-text">
+            Some quick example text to build on the <em>card title</em> and make up the bulk of the card's content.
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div></b-col>
+        <b-col md="6" lg="4">
+          <div>
+    <b-card class="m-2"
+            title="Card title"
+            sub-title="Card subtitle">
+        <p class="card-text">
+            Some quick example text to build on the <em>card title</em> and make up the bulk of the card's content.
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div>
+        </b-col>
+        <b-col md="6" lg="4">
+          <div>
+    <b-card class="m-2" 
+            title="Card title"
+            sub-title="Card subtitle">
+        <p class="card-text">
+            Some quick example text to build on the <em>card title</em> and make up the bulk of the card's content.
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div>
+        </b-col>
+    </b-row>
+</b-container>
     </div>
     <site-footer/>
   </div>  
@@ -58,6 +89,10 @@ components:{
     .portada{
          background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
     }
+    .servicios h1{
+      margin: 60px 0 100px;
+    }
+    
 </style>
 
 
