@@ -76,4 +76,11 @@ body{
     font-size: 1.1rem;
     font-weight: 300;
 }
+.contacto .card{
+  max-width: 600px;
+}
+.contacto{
+  display: flex;
+  justify-content: center;
+}
 </style>

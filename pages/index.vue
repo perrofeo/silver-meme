@@ -165,11 +165,6 @@ export default {
 .left{
   text-align:left;
 }
-.contacto .card{
-  max-width: 600px;
-}
-.contacto{
-  display: flex;
-  justify-content: center;
-}
+
+
 </style>
