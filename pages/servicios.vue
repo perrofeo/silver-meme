@@ -73,14 +73,10 @@
 </b-container>
     </div>
     <section class="contacto">
-    <b-card title="Más éxito para tu evento"
-            sub-title="Card subtitle"
+    <b-card title="¿Quieres saber más sobre nuestros servicios?"
+            sub-title="Habla con nosotros."
             class="text-center">
-        <p class="card-text">
-            Somos una joven agencia de modelos y edecanes ubicada en Matagalpa, Nicaragua. 
-            Te ayudamos a presentar tu marca o evento de manera exitosa, 
-            encantar a tus clientes y comunicarles correctamente el mensaje de tus productos o servicios.
-        </p>
+        
         <b-btn variant="primary" href="#">+ Info</b-btn>
     </b-card>
   </section>
