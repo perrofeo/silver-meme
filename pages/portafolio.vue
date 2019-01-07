@@ -2,7 +2,7 @@
   <div>
     <div id="portafolio" class="portada">
   
-  <b-navbar toggleable="md" type="light" variant="">
+  <b-navbar toggleable="md" type="" variant="">
 
   <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">

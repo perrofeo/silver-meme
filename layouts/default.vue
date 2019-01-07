@@ -25,10 +25,21 @@ html {
   box-sizing: border-box;
   margin: 0;
 }
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
+
 body{
   font-family: 'Open Sans', sans-serif;
 }
+ .navbar-nav a{
+  color: white;
+}
+.navbar-nav .nav-link.active {
+     color: white;
+}
+ .navbar-nav .nav-link:hover,  .navbar-nav .nav-link:focus {
+    color: #f14121;
+    
+}
+
 .page-enter-active, .page-leave-active {
   transition: opacity .5s
 }

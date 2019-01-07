@@ -2,7 +2,7 @@
 <div>
   <div class="portada">
   
-  <b-navbar toggleable="md" type="light" variant="">
+  <b-navbar toggleable="md" type="" variant="">
 
   <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
@@ -129,6 +129,7 @@ export default {
 
 <style>
 
+
 .header .container{
   justify-content: center;
 }
@@ -144,21 +145,6 @@ export default {
   background-color: transparent;
 }
 
-.title {
-  display: block;
-  font-weight: 300;
-  font-size: 4.5em;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 2.5em;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
 
 .servicios img{
    max-width: 400px;

@@ -3,10 +3,10 @@
     <div class="site-footer text-center full-width">
         <div class="footer-container">
            <div class="hr hr--top">
-			<a href="/" id="cta-footer-glammyLogo">
+			<b-link to="/" id="cta-footer-glammyLogo">
 				<img src="~/assets/GLAMMY_FAVICON.svg" aria-label="Glammy" class="logo" width="40" height="40">
 				
-			</a>
+			</b-link>
 			<div class="footer-nav">
 				<ul>
 					<li><a href="/features" id="cta-footer-features">Features</a></li>
