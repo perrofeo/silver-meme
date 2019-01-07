@@ -2,7 +2,7 @@
   <div>
     <div id="contacto" class="portada">
   
-  <b-navbar toggleable="md" type="" variant="">
+  <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
@@ -23,9 +23,27 @@
 
   </b-collapse>
 </b-navbar>
-    <h1>Contacto</h1>
+
+    <b-container class="bv-example-row text-center">
+         <b-row cols="12"> 
+          <div class="glammy_img">
+            <img src="~/assets/LOGO_JONATHAN.png">
+          </div>
+         </b-row>
+    <b-row>
+      
+        <b-col cols="12">
+          <b-jumbotron  header="Trabajemos juntos"
+         lead="Si buscas un equipo profesional y creativo para
+que tu evento o acción de marketing se vuelva
+todo un éxito, contáctanos." >
+        </b-jumbotron>
+        </b-col>
+    </b-row>
+</b-container>
+</div>
     
-    </div>
+    
     <site-footer/>
     </div>
 </template>
@@ -44,12 +62,20 @@ components:{
 <style>
   .portada{
          background-image: url("~assets/GLAMMY_background_CONTACTO.svg");
-         min-height: 60vh;
+         min-height: 40vh;
     }
     #contacto h1{
       margin: 60px 0 50px;
       text-align: center;
       color: white;
+    }
+    .glammy_img{
+      margin: auto;
+    }
+    .glammy_img img{
+      max-width: 350px;
+      width: 100%;
+      height: 100%;
     }
 </style>
 

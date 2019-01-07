@@ -2,7 +2,7 @@
   <div>
     <div id="servicios" class="portada">
   
-  <b-navbar toggleable="md" type="" variant="">
+  <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
@@ -23,8 +23,13 @@
 
   </b-collapse>
 </b-navbar>
-    <h1>Servicios</h1>
+    
     <b-container class="bv-example-row text-center bv-example-row-flex-cols">
+        <b-jumbotron  header="Servicios a la medida"
+         lead="Impulsa tu evento o acción de marketing con
+el versátil menú de servicios de Glammy." >
+        </b-jumbotron>
+        
     
     <b-row align-v="center">
         <b-col md="6" lg="4"><div>
@@ -103,9 +108,8 @@ components:{
          min-height: 100vh;
          background-position: center;
     }
-    #servicios h1{
-      margin: 60px 0 50px;
-      text-align: center;
+    #servicios .jumbotron{
+      background-color: transparent;
     }
     
 </style>

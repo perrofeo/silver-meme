@@ -2,7 +2,7 @@
 <div>
   <div class="portada">
   
-  <b-navbar toggleable="md" type="" variant="">
+  <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
@@ -28,16 +28,12 @@
       
   <section class="header">
     <div class="container">
-      <b-jumbotron  header="Más éxito para
-tu evento" lead="Somos una joven agencia de modelos y
-edecanes ubicada en Matagalpa,
-Nicaragua. Te ayudamos a presentar tu
-marca o evento de manera exitosa,
-encantar a tus clientes y comunicarles
-correctamente el mensaje de tus
-productos o servicios." >
+      <b-jumbotron  header="Impulsa tu evento
+con Glammy" lead="Te ayudamos a presentar tu marca o evento de
+manera exitosa y a comunicar correctamente el
+mensaje de tus productos o servicios." >
             
-            <b-btn variant="primary" href="#">More Info</b-btn>
+            <b-btn variant="primary" href="#">Conócenos</b-btn>
       </b-jumbotron>
     </div>
   </section>

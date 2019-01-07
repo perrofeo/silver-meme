@@ -32,11 +32,11 @@ body{
  .navbar-nav a{
   color: white;
 }
-.navbar-nav .nav-link.active {
+.navbar-light .navbar-nav .nav-link.active {
      color: white;
 }
- .navbar-nav .nav-link:hover,  .navbar-nav .nav-link:focus {
-    color: #f14121;
+ .navbar-light .navbar-nav .nav-link:hover,  .navbar-light .navbar-nav .nav-link:focus {
+    color: rgba(255, 255, 255, 0.6);
     
 }
 

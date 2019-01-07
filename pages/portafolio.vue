@@ -2,7 +2,7 @@
   <div>
     <div id="portafolio" class="portada">
   
-  <b-navbar toggleable="md" type="" variant="">
+  <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
         <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
@@ -23,19 +23,21 @@
 
   </b-collapse>
 </b-navbar>
-    <h1>Portafolio</h1>
-    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
+    
+    <b-container class=" text-center">
         <b-row >
-            <b-col md="5" lg="6" class="texto-inicio">
-                <p class="p-3">Te invitamos a hacer un recorrido por
-nuestros eventos y a conocer el
-portafolio de modelos Glammy.</p>
+            <b-col md="4" lg="5" class="">
+              <b-jumbotron  header="Con el estilo
+Glammy"
+         lead="Conoce nuestro portafolio de
+modelos y trabajos realizados." >
+        </b-jumbotron>
             </b-col>
         </b-row>
     </b-container>
     </div>
     <section class="portafolio-eventos mt-5 text-center">
-        <h2>Eventos con el estilo Glammy</h2>
+        <h2>#SoyGlammy Modelos</h2>
         <b-container>
         
     <b-card-group columns>
@@ -195,18 +197,17 @@ components:{
 }
 </script>
 <style scoped>
-.container{
-  min-height: 50vh;
-}
+
     .portada{
          background-image: url("~assets/GLAMMY_background_PORTAFOLIO.svg");
-         min-height: 30vh;
+         height: 100%;
          background-position: top;
+         min-height: 85vh;
     }
     #portafolio h1{
       margin: 60px 0 50px;
       text-align: center;
-      color: white;
+      
     }
     .texto-inicio p{
         font-size: 2em;
