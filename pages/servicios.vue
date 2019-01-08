@@ -14,7 +14,7 @@
 
     <!-- Right aligned nav items -->
     <b-navbar-nav class="ml-auto">
-       <b-nav-item to="/">Inicio</b-nav-item>
+       <b-nav-item class="inicio" to="/">Inicio</b-nav-item>
        <b-nav-item to="/servicios">Servicios</b-nav-item>
        <b-nav-item to="/portafolio">Portafolio</b-nav-item>
        <b-nav-item to="/contacto">Contacto</b-nav-item>

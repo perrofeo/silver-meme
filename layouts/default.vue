@@ -30,14 +30,21 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
  .navbar-nav a{
-  color: white;
+  color: rgba(255, 255, 255, 0.6);
 }
 .navbar-light .navbar-nav .nav-link.active {
      color: white;
 }
- .navbar-light .navbar-nav .nav-link:hover,  .navbar-light .navbar-nav .nav-link:focus {
-    color: rgba(255, 255, 255, 0.6);
+ .navbar-light .navbar-nav .nav-link:hover {
+    color: white;
     
+}
+.inicio .nav-link.active {
+     color: rgba(255, 255, 255, 0.6)!important;
+
+}
+.inicio .nav-link:hover{
+     color: white!important;
 }
 
 .page-enter-active, .page-leave-active {
@@ -104,7 +111,7 @@ body{
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: white;
+    color: rgba(255, 255, 255, 0.6);
 }
 .portada{
   
