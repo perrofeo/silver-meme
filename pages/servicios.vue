@@ -23,14 +23,15 @@
 
   </b-collapse>
 </b-navbar>
+    <div class="portada-servicios text-center">
     
-    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
         <b-jumbotron  header="Servicios a la medida"
          lead="Impulsa tu evento o acción de marketing con
 el versátil menú de servicios de Glammy." >
         </b-jumbotron>
+        </div>
         
-    
+    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
     <b-row align-v="center">
         <b-col md="6" lg="4"><div>
     <b-card class="m-2"

@@ -23,18 +23,20 @@
 
   </b-collapse>
 </b-navbar>
+    <div class="portada-portafolio">
     
-    <b-container class=" text-center">
-        <b-row >
+        <b-container>
             <b-col md="4" lg="5" class="">
-              <b-jumbotron  header="Con el estilo
+                <b-jumbotron  header="Con el estilo
 Glammy"
          lead="Conoce nuestro portafolio de
 modelos y trabajos realizados." >
         </b-jumbotron>
             </b-col>
-        </b-row>
-    </b-container>
+        </b-container>
+        
+    
+    </div>
     </div>
     <section class="portafolio-eventos mt-5 text-center">
         <h2>#SoyGlammy Modelos</h2>
@@ -204,12 +206,13 @@ components:{
          background-position: top;
          min-height: 85vh;
     }
-    #portafolio h1{
-      margin: 60px 0 50px;
-      text-align: center;
-      
+    
+    
+    .portada-portafolio{
+        padding-top: 100px;
     }
-    .texto-inicio p{
-        font-size: 2em;
+    .portada-portafolio .container{
+            justify-content: flex-start;
+            text-align: center;
     }
 </style>

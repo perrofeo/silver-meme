@@ -136,7 +136,7 @@ export default {
   align-items: center;
   text-align: center;
 }
-.jumbotron{
+.header .jumbotron{
   max-width: 700px;
   background-color: transparent;
 }

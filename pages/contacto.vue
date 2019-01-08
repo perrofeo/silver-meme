@@ -23,25 +23,27 @@
 
   </b-collapse>
 </b-navbar>
-
-    <b-container class="bv-example-row text-center">
-         <b-row cols="12"> 
-          <div class="glammy_img">
+    <div class="portada-contacto text-center">
+      <div class="glammy_img">
             <img src="~/assets/LOGO_JONATHAN.png">
           </div>
-         </b-row>
+    </div>
+</div>
+
+    <b-container class="bv-example-row text-center">
+         
     <b-row>
       
         <b-col cols="12">
-          <b-jumbotron  header="Trabajemos juntos"
-         lead="Si buscas un equipo profesional y creativo para
+          
+        <h1>Trabajemos juntos</h1>
+        <h2>Si buscas un equipo profesional y creativo para
 que tu evento o acción de marketing se vuelva
-todo un éxito, contáctanos." >
-        </b-jumbotron>
+todo un éxito, contáctanos.</h2>
         </b-col>
     </b-row>
 </b-container>
-</div>
+
     
     
     <site-footer/>
@@ -64,11 +66,7 @@ components:{
          background-image: url("~assets/GLAMMY_background_CONTACTO.svg");
          min-height: 40vh;
     }
-    #contacto h1{
-      margin: 60px 0 50px;
-      text-align: center;
-      color: white;
-    }
+    
     .glammy_img{
       margin: auto;
     }
@@ -76,6 +74,9 @@ components:{
       max-width: 350px;
       width: 100%;
       height: 100%;
+    }
+    .portada-contacto{
+      padding-top: 100px;
     }
 </style>
 
