@@ -209,10 +209,13 @@ components:{
     
     
     .portada-portafolio{
-        padding-top: 100px;
+        padding-top: 12em;
     }
     .portada-portafolio .container{
             justify-content: flex-start;
             text-align: center;
+    }
+    .portada-portafolio .jumbotron{
+        background-color: transparent;
     }
 </style>
