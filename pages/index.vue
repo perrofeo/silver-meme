@@ -29,9 +29,9 @@
   <section class="header">
     <div class="container">
       <b-jumbotron  header="Impulsa tu evento
-con Glammy" lead="Te ayudamos a presentar tu marca o evento de
-manera exitosa y a comunicar correctamente el
-mensaje de tus productos o servicios." >
+con Glammy" lead="Somos una joven agencia de modelos y 
+edecanes capacitados para dar una cálida bienvenida a tus clientes e invitados. 
+Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus necesidades." >
             
             <b-btn variant="primary" href="#">Conócenos</b-btn>
       </b-jumbotron>
@@ -49,12 +49,13 @@ mensaje de tus productos o servicios." >
   <b-media vertical-align="center">
     <img class="d-none d-md-block"  slot="aside" src="~/assets/modelos.jpg"  alt="placeholder" />
     <b-media-body class="left">
-    <h5 class="mt-0">Encanta a tus clientes</h5>
+    <h5 class="mt-0">Tranquilidad y resultados</h5>
     <p>
-      En este texto hacer un resumen más específico
-de los servicios de Glammy Agencia de
-Modelos y Edecanes. Las modelos, los
-uniformes, el sonido, eventos creativos.
+      En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
+      asegurando que el mensaje de tus productos o servicios sea comunicado de manera exitosa.</p>
+
+    <p>
+Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo dedicado, creativo y profesional tu evento estará en buenas manos.
     </p>
     <b-btn variant="primary" href="#">Servicios</b-btn>
     </b-media-body>
@@ -64,12 +65,14 @@ uniformes, el sonido, eventos creativos.
   <b-media right-align vertical-align="center">
     <img class="d-none d-md-block" slot="aside" src="~/assets/modelos.jpg"  alt="placeholder" />
     <b-media-body class="right">
-    <h5 class="mt-0">Agrega valor a tu marca</h5>
+    <h5 class="mt-0">Encanta a tus clientes</h5>
     <p>
-      En este texto hacer un resumen más específico
-de los servicios de Glammy Agencia de
-Modelos y Edecanes. Las modelos, los
-uniformes, el sonido, eventos creativos.
+      Los eventos más memorables son aquellos con un toque personal. 
+      Nuestras anfitrionas acogedoras y atentas conforman el equipo perfecto para organizar tu evento promocional, 
+      fiesta, conferencia, feria comercial o exposición.</p>
+
+    <p>
+Pincha >aquí< para conocer nuestro >portafolio< de >modelos< y los >eventos< realizados por Glammy.
     </p>
     <b-btn variant="primary" href="#">Portafolio</b-btn>
     </b-media-body>

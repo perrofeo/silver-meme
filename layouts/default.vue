@@ -29,6 +29,15 @@ html {
 body{
   font-family: 'Open Sans', sans-serif;
 }
+
+h1{
+  letter-spacing: -0.03em;
+}
+
+h2{
+  letter-spacing: -0.015em;
+  font-weight: 700;
+}
  .navbar-nav a{
   color: rgba(255, 255, 255, 0.6);
 }
