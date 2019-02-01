@@ -63,7 +63,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
 </b-card>
      <b-card>
   <b-media right-align vertical-align="center">
-    <img class="d-none d-md-block" slot="aside" src="~/assets/GLAM_PORTADA_1.jpg"  alt="placeholder" />
+    <img class="d-none d-md-block" slot="aside" src="~/assets/GLAM_HOME2_Encanta.jpg"  alt="placeholder" />
     <b-media-body class="right">
     <h5 class="mt-0">Encanta a tus clientes</h5>
     <p>
