@@ -47,7 +47,7 @@ Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus ne
 
      <b-card>
   <b-media vertical-align="center">
-    <img class="d-none d-md-block"  slot="aside" src="~/assets/modelos.jpg"  alt="placeholder" />
+    <img class="d-none d-md-block"  slot="aside" src="~/assets/GLAM_PORTADA_1.jpg"  alt="placeholder" />
     <b-media-body class="left">
     <h5 class="mt-0">Tranquilidad y resultados</h5>
     <p>
