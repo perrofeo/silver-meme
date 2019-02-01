@@ -49,7 +49,7 @@ Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus ne
   <b-media vertical-align="center">
     <img class="d-none d-md-block"  slot="aside" src="~/assets/GLAM_HOME1_Tranquilidad.jpg"  alt="placeholder" />
     <b-media-body class="left">
-    <h5 class="mt-0">Tranquilidad y resultados</h5>
+    <h2 class="mt-0">Tranquilidad y resultados</h2>
     <p>
       En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
       asegurando que el mensaje de tus productos o servicios sea comunicado de manera exitosa.</p>
@@ -65,7 +65,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
   <b-media right-align vertical-align="center">
     <img class="d-none d-md-block" slot="aside" src="~/assets/GLAM_HOME2_Encanta.jpg"  alt="placeholder" />
     <b-media-body class="right">
-    <h5 class="mt-0">Encanta a tus clientes</h5>
+    <h2 class="mt-0">Encanta a tus clientes</h2>
     <p>
       Los eventos más memorables son aquellos con un toque personal. 
       Nuestras anfitrionas acogedoras y atentas conforman el equipo perfecto para organizar tu evento promocional, 
