@@ -86,15 +86,20 @@ Pincha >aquí< para conocer nuestro >portafolio< de >modelos< y los >eventos< re
   
   </section>
   <section class="contacto">
-    <b-card title="Más éxito para tu evento"
-            sub-title="Card subtitle"
+    <b-card title="¡Trabajemos juntos!"
+            sub-title=""
             class="text-center">
         <p class="card-text">
-            Somos una joven agencia de modelos y edecanes ubicada en Matagalpa, Nicaragua. 
-            Te ayudamos a presentar tu marca o evento de manera exitosa, 
-            encantar a tus clientes y comunicarles correctamente el mensaje de tus productos o servicios.
+            Glammy Agencia de Modelos y Edecanes está ubicada en Matagalpa y ofrece sus servicios en toda Nicaragua.
         </p>
-        <b-btn variant="primary" href="#">+ Info</b-btn>
+        <p class="card-text">
+            Si buscas un equipo profesional y creativo para que tu evento se vuelva todo un éxito, habla con nosotros!
+        </p>
+        <b-btn variant="primary" href="#">Teléfono</b-btn>
+        <b-btn variant="primary" href="#">Email</b-btn>
+        <b-btn variant="primary" href="#">Facebook</b-btn>
+        <b-btn variant="primary" href="#">Instagram</b-btn>
+        <b-btn variant="primary" href="#">Youtube</b-btn>
     </b-card>
   </section>
   <site-footer/>
