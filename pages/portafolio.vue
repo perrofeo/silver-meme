@@ -38,9 +38,9 @@ modelos y trabajos realizados." >
     
     </div>
     </div>
-    <section class="portafolio-eventos mt-5 text-center">
-        <h2>#SoyGlammy Modelos</h2>
-        <b-container>
+    <section class="portafolio-modelos mt-5 text-center">
+        <h2>Portafolio de Modelos</h2>
+            <b-container>
         
     <b-card-group columns>
         <b-card title="Card title that wraps to a new line"
@@ -106,10 +106,9 @@ modelos y trabajos realizados." >
     </b-card-group>
         </b-container>
     </section>
-
-    <section class="portafolio-modelos mt-5 text-center">
-        <h2>Portafolio de Modelos</h2>
-            <b-container>
+    <section class="portafolio-eventos mt-5 text-center">
+        <h2>#SoyGlammy Modelos</h2>
+        <b-container>
         
     <b-card-group columns>
         <b-card title="Card title that wraps to a new line"
