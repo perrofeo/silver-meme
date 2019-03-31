@@ -36,7 +36,7 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    
+    '~plugins/vue-scrollto.js'
   ],
 
   /*
@@ -45,6 +45,7 @@ module.exports = {
   modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
+    'vue-scrollto/nuxt',
     ['nuxt-fontawesome', {
       component: 'fa',
       imports: [

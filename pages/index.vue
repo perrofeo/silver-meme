@@ -33,7 +33,7 @@ con Glammy" lead="Somos una joven agencia de modelos y
 edecanes capacitados para dar una cálida bienvenida a tus clientes e invitados. 
 Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus necesidades." >
             
-            <b-btn variant="primary" href="#">Conócenos</b-btn>
+            <b-btn variant="primary" href="#" v-scroll-to="'#presentacion'">Conócenos</b-btn>
       </b-jumbotron>
     </div>
   </section>
@@ -46,7 +46,7 @@ Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus ne
           
 
      <b-card>
-  <b-media vertical-align="center">
+  <b-media vertical-align="center" id="presentacion">
     <img class="d-none d-md-block"  slot="aside" src="~/assets/GLAM_HOME1_Tranquilidad.jpg"  alt="placeholder" />
     <b-media-body class="left">
     <h2 class="mt-0">Tranquilidad y resultados</h2>
@@ -110,6 +110,7 @@ Pincha >aquí< para conocer nuestro >portafolio< de >modelos< y los >eventos< re
 <script>
 
 import SiteFooter from '~/components/SiteFooter.vue'
+import VueScrollTo from 'vue-scrollto';
 
 
 export default {
