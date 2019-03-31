@@ -43,14 +43,12 @@ modelos y trabajos realizados." >
             <b-container>
         
     <b-card-group columns>
-        <b-card title="Card title that wraps to a new line"
-                img-src="https://placekitten.com/g/400/450"
+        <b-card img-src="~/assets/Modelo1_Mercedes-Martinez.jpg"
                 img-fluid
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit
-                longer.
+                Mercedes Martinez
             </p>
         </b-card>
         <b-card header="Quote">
