@@ -43,7 +43,7 @@ modelos y trabajos realizados." >
             <b-container>
         
     <b-card-group columns>
-        <b-card img-src="~/assets/Modelo1_Mercedes-Martinez.jpg"
+        <b-card img-src="assets/Modelo1_Mercedes-Martinez.jpg"
                 img-fluid
                 img-alt="image"
                 img-top>
