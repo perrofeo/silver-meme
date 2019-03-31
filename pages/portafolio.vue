@@ -59,6 +59,17 @@ modelos y trabajos realizados." >
                 Nahomi Espinoza
             </p>
         </b-card>
+        <b-card bg-variant="primary"
+                text-variant="white">
+            <blockquote class="card-blockquote">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+                </p>
+                <footer>
+                    <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                </footer>
+            </blockquote>
+        </b-card>
         <b-card img-src="Modelo3_Belen-Blandon.jpg"
                 img-fluid
                 img-alt="image"
@@ -74,17 +85,6 @@ modelos y trabajos realizados." >
             <p class="card-text">
                 Thalia Aguirre
             </p>
-        </b-card>
-        <b-card bg-variant="primary"
-                text-variant="white">
-            <blockquote class="card-blockquote">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
-                </p>
-                <footer>
-                    <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
-                </footer>
-            </blockquote>
         </b-card>
     </b-card-group>
         </b-container>
