@@ -26,8 +26,7 @@
     <div class="portada-servicios text-center">
     
         <b-jumbotron  header="Servicios a la medida"
-         lead="Impulsa tu evento o acción de marketing con
-el versátil menú de servicios de Glammy." >
+         lead="Impulsa tu evento, promoción o acción de marketing con el versátil menú de servicios de Glammy." >
         </b-jumbotron>
         </div>
         
@@ -35,10 +34,9 @@ el versátil menú de servicios de Glammy." >
     <b-row align-v="center">
         <b-col md="6" lg="4"><div>
     <b-card class="m-2"
-            title="Card title"
-            sub-title="Card subtitle">
+            title="Modelos y Edecanes">
         <p class="card-text">
-            Some quick example text to build on the <em>card title</em> and make up the bulk of the card's content.
+            Ofrecemos anfitrionas capacitadas y supervisadas ​​para dar una calurosa bienvenida a sus invitados y ocuparse de su fiesta o evento promocional.
         </p>
         <a href="#"
            class="card-link">Card link</a>
@@ -49,10 +47,9 @@ el versátil menú de servicios de Glammy." >
         <b-col md="6" lg="4">
           <div>
     <b-card class="m-2"
-            title="Card title"
-            sub-title="Card subtitle">
+            title="Vestimentas personalizadas para eventos">
         <p class="card-text">
-            Some quick example text to build on the <em>card title</em> and make up the bulk of the card's content.
+            Agregue el toque final a tu evento con nuestros uniformes y trajes.
         </p>
         <a href="#"
            class="card-link">Card link</a>
@@ -64,10 +61,38 @@ el versátil menú de servicios de Glammy." >
         <b-col md="6" lg="4">
           <div>
     <b-card class="m-2" 
-            title="Card title"
-            sub-title="Card subtitle">
+            title="Influencers">
         <p class="card-text">
-            Some quick example text to build on the <em>card title</em> and make up the bulk of the card's content.
+            Promueve tu marca, tienda, servicios y productos con resultados efectivos y a bajo costo con nuestras influencers.
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div>
+        </b-col>
+        <b-col md="6" lg="4">
+          <div>
+    <b-card class="m-2" 
+            title="Publicidad dinámica">
+        <p class="card-text">
+            - Skydancer: ideal para darle frescura a tu marca y generar presencia. Esta publicidad dinámica es muy atractiva y resalta a la vista de todos por su tamaño. Colores disponibles: azul, rojo y morado.<br>
+            - Dinosaurio gigante para eventos.
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div>
+        </b-col>
+        <b-col md="6" lg="4">
+          <div>
+    <b-card class="m-2" 
+            title="Disparo CO2">
+        <p class="card-text">
+            
         </p>
         <a href="#"
            class="card-link">Card link</a>
