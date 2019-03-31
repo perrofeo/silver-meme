@@ -59,6 +59,14 @@ modelos y trabajos realizados." >
                 Nahomi Espinoza
             </p>
         </b-card>
+        <b-card img-src="Modelo3_Belen-Blandon.jpg"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Belén Blandon
+            </p>
+        </b-card>
         <b-card bg-variant="primary"
                 text-variant="white">
             <blockquote class="card-blockquote">
@@ -69,14 +77,6 @@ modelos y trabajos realizados." >
                     <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
                 </footer>
             </blockquote>
-        </b-card>
-        <b-card img-src="Modelo3_Belen-Blandon.jpg"
-                img-fluid
-                img-alt="image"
-                img-top>
-            <p class="card-text">
-                Belén Blandon
-            </p>
         </b-card>
         <b-card img-src="Modelo4_Thalia-Aguirre.jpg"
                 img-fluid
