@@ -38,14 +38,14 @@ Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus ne
     </div>
   </section>
   </div>
-  <section class="servicios">
+  <section class="servicios" id="presentacion">
     <b-container>
       <b-row align-h="center">
         <b-col sm="10" md="12" >
           
           
 
-     <b-card>
+     <!-- <b-card>
   <b-media vertical-align="center" id="presentacion">
     <img class="d-none d-md-block"  slot="aside" src="~/assets/GLAM_HOME1_Tranquilidad.jpg"  alt="placeholder" />
     <b-media-body class="left">
@@ -60,8 +60,41 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
     <b-btn variant="primary" href="#">Servicios</b-btn>
     </b-media-body>
   </b-media>
-</b-card>
-     <b-card>
+</b-card> -->
+  <b-card no-body class="overflow-hidden">
+    <b-row no-gutters>
+      <b-col md="6">
+        <b-card-img :src="require('../static/GLAM_HOME1_Tranquilidad.jpg')" class="rounded-0"></b-card-img>
+      </b-col>
+      <b-col md="6">
+        <b-card-body title="Tranquilidad y resultados">
+          <b-card-text>
+            <p>En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
+      asegurando que el mensaje de tus productos o servicios sea comunicado de manera exitosa.</p>
+          </b-card-text>
+          <b-btn variant="primary" href="#">Servicios</b-btn>
+        </b-card-body>
+      </b-col>
+    </b-row>
+  </b-card>
+  <b-card no-body class="overflow-hidden">
+    <b-row no-gutters>
+      <b-col md="6">
+        <b-card-body title="Encanta a tus clientes">
+          <b-card-text>
+            <p>Los eventos más memorables son aquellos con un toque personal. 
+      Nuestras anfitrionas acogedoras y atentas conforman el equipo perfecto para organizar tu evento promocional, 
+      fiesta, conferencia, feria comercial o exposición.</p>
+          </b-card-text>
+          <b-btn variant="primary" href="#">Portafolio</b-btn>
+        </b-card-body>
+      </b-col>
+      <b-col md="6">
+        <b-card-img :src="require('../static/GLAM_HOME2_Encanta.jpg')" class="rounded-0"></b-card-img>
+      </b-col>
+    </b-row>
+  </b-card>
+     <!-- <b-card>
   <b-media right-align vertical-align="center">
     <img class="d-none d-md-block" slot="aside" src="~/assets/GLAM_HOME2_Encanta.jpg"  alt="placeholder" />
     <b-media-body class="right">
@@ -77,7 +110,7 @@ Pincha >aquí< para conocer nuestro >portafolio< de >modelos< y los >eventos< re
     <b-btn variant="primary" href="#">Portafolio</b-btn>
     </b-media-body>
   </b-media>
-</b-card>
+</b-card> -->
           
           </b-col>
         
