@@ -28,11 +28,11 @@
         <b-jumbotron  header="Servicios a la medida"
          lead="Impulsa tu evento, promoción o acción de marketing con el versátil menú de servicios de Glammy." >
         </b-jumbotron>
-        </div>
-        
+    </div>
+  </div>      
     <b-container class="bv-example-row text-center bv-example-row-flex-cols">
     <b-row align-v="center">
-        <b-col md="6" lg="6"><div>
+        <b-col md="6" lg="4"><div>
     <b-card :img-src="require('../static/Serv_Modelos-Edecanes.jpg')"
             class="m-2"
             title="Modelos y Edecanes">
@@ -45,7 +45,7 @@
                 class="card-link">Another link</b-link>
     </b-card>
 </div></b-col>
-        <b-col md="6" lg="6">
+        <b-col md="6" lg="4">
           <div>
     <b-card class="m-2"
             title="Vestimentas personalizadas para eventos">
@@ -59,7 +59,7 @@
     </b-card>
 </div>
         </b-col>
-        <b-col md="6" lg="6">
+        <b-col md="6" lg="4">
           <div>
     <b-card class="m-2" 
             title="Influencers">
@@ -73,7 +73,7 @@
     </b-card>
 </div>
         </b-col>
-        <b-col md="6" lg="6">
+        <b-col md="6" lg="4">
           <div>
     <b-card class="m-2" 
             title="Publicidad dinámica">
@@ -88,7 +88,7 @@
     </b-card>
 </div>
         </b-col>
-        <b-col md="6" lg="6">
+        <b-col md="6" lg="4">
           <div>
     <b-card class="m-2" 
             title="Disparo CO2">
@@ -104,7 +104,7 @@
         </b-col>
     </b-row>
 </b-container>
-    </div>
+    
     <section class="contacto">
     <b-card title="¿Quieres saber más sobre nuestros servicios?"
             sub-title="Habla con nosotros."
@@ -132,7 +132,7 @@ components:{
 }
     .portada{
          background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
-         min-height: 100vh;
+         min-height: 60vh;
          background-position: center;
     }
     #servicios .jumbotron{
