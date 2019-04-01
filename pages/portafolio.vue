@@ -51,7 +51,7 @@ modelos y trabajos realizados." >
                 Mercedes Martinez
             </p>
         </b-card>
-        <b-card img-src="Modelo2_Nahomi-Espinoza.jpg"
+        <b-card :img-src="require('../static/Modelo2_Nahomi-Espinoza.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
@@ -59,7 +59,7 @@ modelos y trabajos realizados." >
                 Nahomi Espinoza
             </p>
         </b-card>
-        <b-card img-src="Modelo3_Belen-Blandon.jpg"
+        <b-card :img-src="require('../static/Modelo3_Belen-Blandon.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
@@ -78,7 +78,7 @@ modelos y trabajos realizados." >
                 </footer>
             </blockquote>
         </b-card>
-        <b-card img-src="Modelo4_Thalia-Aguirre.jpg"
+        <b-card :img-src="require('../static/Modelo4_Thalia-Aguirre.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
