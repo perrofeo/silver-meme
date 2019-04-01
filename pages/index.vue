@@ -63,10 +63,10 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
 </b-card> -->
   <b-card no-body class="overflow-hidden">
     <b-row no-gutters>
-      <b-col md="6">
+      <b-col lg="6">
         <b-card-img :src="require('../static/GLAM_HOME1_Tranquilidad.jpg')" class="rounded-0"></b-card-img>
       </b-col>
-      <b-col md="6">
+      <b-col lg="6">
         <b-card-body title="Tranquilidad y resultados">
           <b-card-text>
             <p>En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
@@ -79,7 +79,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
   </b-card>
   <b-card no-body class="overflow-hidden">
     <b-row no-gutters>
-      <b-col md="6">
+      <b-col lg="6">
         <b-card-body title="Encanta a tus clientes">
           <b-card-text>
             <p>Los eventos más memorables son aquellos con un toque personal. 
@@ -89,7 +89,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
           <b-btn variant="primary" href="#">Portafolio</b-btn>
         </b-card-body>
       </b-col>
-      <b-col md="6">
+      <b-col lg="6">
         <b-card-img :src="require('../static/GLAM_HOME2_Encanta.jpg')" class="rounded-0"></b-card-img>
       </b-col>
     </b-row>
