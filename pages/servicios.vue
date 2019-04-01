@@ -33,7 +33,8 @@
     <b-container class="bv-example-row text-center bv-example-row-flex-cols">
     <b-row align-v="center">
         <b-col md="6" lg="4"><div>
-    <b-card class="m-2"
+    <b-card :img-src="require('../static/Serv_Modelos-Edecanes.jpg')"
+            class="m-2"
             title="Modelos y Edecanes">
         <p class="card-text">
             Ofrecemos anfitrionas capacitadas y supervisadas ​​para dar una calurosa bienvenida a sus invitados y ocuparse de su fiesta o evento promocional.
