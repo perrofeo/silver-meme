@@ -183,7 +183,9 @@ export default {
   background-color: transparent;
 }
 
-
+.card {
+  border: none;
+}
 .servicios img{
    max-width: 400px;
    height: 100%;
