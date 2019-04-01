@@ -32,7 +32,7 @@
         
     <b-container class="bv-example-row text-center bv-example-row-flex-cols">
     <b-row align-v="center">
-        <b-col md="6" lg="4"><div>
+        <b-col md="6" lg="6"><div>
     <b-card :img-src="require('../static/Serv_Modelos-Edecanes.jpg')"
             class="m-2"
             title="Modelos y Edecanes">
@@ -45,7 +45,7 @@
                 class="card-link">Another link</b-link>
     </b-card>
 </div></b-col>
-        <b-col md="6" lg="4">
+        <b-col md="6" lg="6">
           <div>
     <b-card class="m-2"
             title="Vestimentas personalizadas para eventos">
@@ -59,7 +59,7 @@
     </b-card>
 </div>
         </b-col>
-        <b-col md="6" lg="4">
+        <b-col md="6" lg="6">
           <div>
     <b-card class="m-2" 
             title="Influencers">
@@ -73,7 +73,7 @@
     </b-card>
 </div>
         </b-col>
-        <b-col md="6" lg="4">
+        <b-col md="6" lg="6">
           <div>
     <b-card class="m-2" 
             title="Publicidad dinámica">
@@ -88,7 +88,7 @@
     </b-card>
 </div>
         </b-col>
-        <b-col md="6" lg="4">
+        <b-col md="6" lg="6">
           <div>
     <b-card class="m-2" 
             title="Disparo CO2">
