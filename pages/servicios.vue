@@ -133,7 +133,7 @@ components:{
     .portada{
          background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
          min-height: 60vh;
-         background-position: center;
+         background-position: top;
     }
     #servicios .jumbotron{
       background-color: transparent;
