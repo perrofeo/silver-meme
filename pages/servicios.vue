@@ -97,7 +97,10 @@
             class="m-2" 
             title="Disparo CO2">
         <p class="card-text">
-            
+          Alquiler efectos especiales para fiestas
+Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:
+- Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.
+- Máquina eléctrica de confeti.
         </p>
         <a href="#"
            class="card-link">Card link</a>
