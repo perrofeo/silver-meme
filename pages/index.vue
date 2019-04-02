@@ -64,7 +64,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
   <b-card no-body class="overflow-hidden">
     <b-row no-gutters>
       <b-col lg="6">
-        <b-card-img :src="require('../static/GLAM_HOME1_Tranquilidad.jpg')" class="rounded-0"></b-card-img>
+        <b-card-img :src="require('../static/GLAM_HOME2_Encanta.jpg')" class="rounded-0"></b-card-img>
       </b-col>
       <b-col lg="6">
         <b-card-body title="Tranquilidad y resultados">
@@ -90,7 +90,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
         </b-card-body>
       </b-col>
       <b-col lg="6">
-        <b-card-img :src="require('../static/GLAM_HOME2_Encanta.jpg')" class="rounded-0"></b-card-img>
+        <b-card-img :src="require('../static/GLAM_HOME2.jpg')" class="rounded-0"></b-card-img>
       </b-col>
     </b-row>
   </b-card>
