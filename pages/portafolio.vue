@@ -118,7 +118,7 @@ modelos y trabajos realizados." >
                 longer.
             </p>
         </b-card>
-        <!-- <b-card :img-src="require('../static/Port_1.jpg')"
+        <b-card :img-src="require('../static/Port_1.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
@@ -126,14 +126,14 @@ modelos y trabajos realizados." >
                 Modelos Glammy
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Port_2.jpg')"
+        <!-- <b-card :img-src="require('../static/Port_2.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
             <p class="card-text">
                 Modelos Glammy
-            </p>
-        </b-card> -->
+            </p> -->
+        </b-card>
     </b-card-group>
         </b-container>
     </section>
