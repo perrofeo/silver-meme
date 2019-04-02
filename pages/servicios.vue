@@ -51,7 +51,7 @@
             class="m-2"
             title="Show Dinosaurio Lesbiano">
         <p class="card-text">
-            Una producción original de Glammy Agencia de Modelos y Edecanes perfecta para llevar tu fiesta a otro nivel! El show, que ya es un éxito en los bacanales del norte de Nicaragua, se ofrece en formato flexible y puede incluir: modelos Glammy, disparos de Co2, confeti, souvenirs y led sticks.
+            Una producción original de Glammy perfecta para llevar tu fiesta a otro nivel! El show, que ya es un éxito en los bacanales del norte de Nicaragua, se ofrece en formato flexible y puede incluir: modelos Glammy, disparos de Co2, confeti, souvenirs y led sticks.
         </p>
         <a href="#"
            class="card-link">Card link</a>
