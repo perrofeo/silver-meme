@@ -62,7 +62,8 @@
         </b-col>
         <b-col md="6" lg="4">
           <div>
-    <b-card class="m-2" 
+    <b-card :img-src="require('../static/Serv_Influencers.jpg')"
+            class="m-2" 
             title="Influencers">
         <p class="card-text">
             Promueve tu marca, tienda, servicios y productos con resultados efectivos y a bajo costo con nuestras influencers.
@@ -76,7 +77,8 @@
         </b-col>
         <b-col md="6" lg="4">
           <div>
-    <b-card class="m-2" 
+    <b-card :img-src="require('../static/Serv_Skydancer.jpg')"
+            class="m-2" 
             title="Publicidad dinámica">
         <p class="card-text">
             - Skydancer: ideal para darle frescura a tu marca y generar presencia. Esta publicidad dinámica es muy atractiva y resalta a la vista de todos por su tamaño. Colores disponibles: azul, rojo y morado.<br>
