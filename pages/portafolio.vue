@@ -126,7 +126,7 @@ modelos y trabajos realizados." >
                 Modelos Glammy
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Port_4.jpg')"
+        <b-card :img-src="require('../static/4.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
