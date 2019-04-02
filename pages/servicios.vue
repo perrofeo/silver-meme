@@ -5,7 +5,7 @@
   <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
-        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="40">
+        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34">
   </b-navbar-brand>
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -78,7 +78,8 @@
         </b-col>
         <b-col md="6" lg="4">
           <div>
-    <b-card class="m-2" 
+    <b-card :img-src="require('../static/Serv_Co2.jpg')"
+            class="m-2" 
             title="Disparo CO2">
         <p class="card-text">
             
