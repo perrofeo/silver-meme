@@ -145,7 +145,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Viral Party en Hard Bar - Estelí
+                Viral Party en Hard Bar Estelí
             </p>
         </b-card>
         <b-card :img-src="require('../static/GLAM_HOME1_Tranquilidad.jpg')"
