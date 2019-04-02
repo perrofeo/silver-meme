@@ -125,6 +125,7 @@ h2{
 
 .navbar-light .navbar-nav .nav-link {
     color: rgba(255, 255, 255, 0.6);
+    text-align: right;
 }
 .portada{
   
