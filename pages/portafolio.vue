@@ -118,7 +118,7 @@ modelos y trabajos realizados." >
                 longer.
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Port_1.jpg')"
+        <b-card :img-src="require('../static/Modelo4_Thalia-Aguirre.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
