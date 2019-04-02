@@ -62,21 +62,6 @@
         </b-col>
         <b-col md="6" lg="4">
           <div>
-    <b-card :img-src="require('../static/Serv_Influencers.jpg')"
-            class="m-2" 
-            title="Influencers">
-        <p class="card-text">
-            Promueve tu marca, tienda, servicios y productos con resultados efectivos y a bajo costo con nuestras influencers.
-        </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
-    </b-card>
-</div>
-        </b-col>
-        <b-col md="6" lg="4">
-          <div>
     <b-card :img-src="require('../static/Serv_Skydancer.jpg')"
             class="m-2" 
             title="Publicidad dinámica">
@@ -97,6 +82,21 @@
             title="Disparo CO2">
         <p class="card-text">
             
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div>
+        </b-col>
+        <b-col md="6" lg="4">
+          <div>
+    <b-card :img-src="require('../static/Serv_Influencers.jpg')"
+            class="m-2" 
+            title="Influencers">
+        <p class="card-text">
+            Promueve tu marca, tienda, servicios y productos con resultados efectivos y a bajo costo con nuestras influencers.
         </p>
         <a href="#"
            class="card-link">Card link</a>
