@@ -38,6 +38,9 @@ h2{
   letter-spacing: -0.015em;
   font-weight: 700;
 }
+.card {
+  border: none;
+}
  .navbar-nav a{
   color: rgba(255, 255, 255, 0.6);
 }
