@@ -47,7 +47,8 @@
 </div></b-col>
         <b-col md="6" lg="4">
           <div>
-    <b-card class="m-2"
+    <b-card :img-src="require('../static/Serv_Vestimentas.jpg')"
+            class="m-2"
             title="Vestimentas personalizadas para eventos">
         <p class="card-text">
             Agregue el toque final a tu evento con nuestros uniformes y trajes.
