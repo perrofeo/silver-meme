@@ -102,8 +102,7 @@ modelos y trabajos realizados." >
     allowfullscreen
   ></b-embed>   
             <p class="card-text">
-                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit
-                longer.
+                Bliss Lounge Estelí
             </p>
         </b-card>
         <b-card>
@@ -114,8 +113,7 @@ modelos y trabajos realizados." >
     allowfullscreen
   ></b-embed>   
             <p class="card-text">
-                This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit
-                longer.
+                Fiesta Hallow Bash en Woods Lounge Bar - Matagalpa 
             </p>
         </b-card>
         <b-card :img-src="require('../static/2.jpg')"
@@ -123,7 +121,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                Fiesta Summer Love en Bliss Lounge Estelí
             </p>
         </b-card>
         <b-card :img-src="require('../static/4.jpg')"
@@ -131,7 +129,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                Amenizando la noche en Hard Bar Estelí
             </p>
         </b-card>
         <b-card :img-src="require('../static/1.jpg')"
@@ -139,7 +137,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                Fiesta Hallow Bash en Woods Lounge Bar - Matagalpa 
             </p>
         </b-card>
         <b-card :img-src="require('../static/3.jpg')"
@@ -147,7 +145,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                Viral Party en Hard Bar - Estelí
             </p>
         </b-card>
         <b-card :img-src="require('../static/GLAM_HOME1_Tranquilidad.jpg')"
@@ -155,7 +153,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                Acción de marketing Cámara de Comercio Matagalpa
             </p>
         </b-card>
         <b-card :img-src="require('../static/6.jpg')"
@@ -163,7 +161,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                2º Aniversario Chefellas Matagalpa
             </p>
         </b-card>
         <b-card :img-src="require('../static/7.jpg')"
@@ -171,7 +169,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                En Woods Matagalpa
             </p>
         </b-card>
         <b-card :img-src="require('../static/5.jpg')"
@@ -179,7 +177,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Modelos Glammy
+                Inauguración Little Fellas Matagalpa
             </p>
         </b-card>
     </b-card-group>
