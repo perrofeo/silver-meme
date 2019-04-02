@@ -113,7 +113,7 @@ modelos y trabajos realizados." >
     allowfullscreen
   ></b-embed>   
             <p class="card-text">
-                Fiesta Hallow Bash en Woods Lounge Bar - Matagalpa 
+                9º Aniversario Woods Lounge Bar - Matagalpa 
             </p>
         </b-card>
         <b-card :img-src="require('../static/2.jpg')"
@@ -137,7 +137,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                9º Aniversario Woods Lounge Bar - Matagalpa 
+                Fiesta Hallow Bash en Woods Lounge Bar - Matagalpa 
             </p>
         </b-card>
         <b-card :img-src="require('../static/3.jpg')"
