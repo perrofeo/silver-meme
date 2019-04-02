@@ -3,10 +3,10 @@
     <div class="site-footer text-center full-width">
         <div class="footer-container">
            <div class="hr hr--top">
-			<b-link to="/" id="cta-footer-glammyLogo">
+			<nuxt-link to="/" id="cta-footer-glammyLogo">
 				<img src="~/assets/GLAMMY_FAVICON.svg" aria-label="Glammy" class="logo" width="40" height="40">
 				
-			</b-link>
+			</nuxt-link>
 			<div class="footer-nav">
 				<nuxt-link to="/servicios">Servicios</nuxt-link>
 				<nuxt-link to="/portafolio">Portafolio</nuxt-link>
