@@ -51,7 +51,7 @@
    .site-footer{
   display: block; 
   color: rgba(14,30,37,.38);
-  font-size: .95rem;
+  font-size: .85rem;
   padding-bottom: 2.618em;
   text-align: center;
 }
@@ -78,6 +78,7 @@
 }
 .footer-nav a {
 	color: #838383;
+	font-size: 0.95rem;
 }
 .site-footer ul {
     flex: 1;
