@@ -8,24 +8,9 @@
 				
 			</b-link>
 			<div class="footer-nav">
-				<ul>
-					<li><a href="/features" id="cta-footer-features">Features</a></li>
-					<li><a href="/pricing" id="cta-footer-pricing">Pricing</a></li>
-					<li><a href="/docs" id="cta-footer-docs">Docs</a></li>
-					<li><a href="/blog" id="cta-footer-blog">Blog</a></li>
-				</ul>
-				<ul>
-					<li><a href="/about" id="cta-footer-about">About</a></li>
-					<li><a href="/careers" id="cta-footer-careers">Careers</a></li>
-					<li><a href="/press" id="cta-footer-press">Press</a></li>
-					<li><a href="/open-source" id="cta-footer-opensource">Open Source</a></li>
-				</ul>
-				<ul>
-					<li><a href="https://netlifystatus.com/" id="cta-footer-status">Status</a></li>
-					<li><a href="/support" id="cta-footer-support">Support</a></li>
-					<li><a href="/enterprise" id="cta-footer-enterprise">Enterprise</a></li>
-					<li><a href="/education" id="cta-footer-education">Education</a></li>
-				</ul>
+				<nuxt-link to="/servicios">Servicios</nuxt-link>
+				<nuxt-link to="/portafolio">Portafolio</nuxt-link>
+				<nuxt-link to="/contacto">Contacto</nuxt-link>
 			</div>
 		   </div>
            <div class="footer-nav nav--inline nav--social">
