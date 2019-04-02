@@ -17,27 +17,27 @@
 			<ul>
 				<li>
 					<a href="#">
-						<img src="~/assets/icon-tel.svg" class="icon" width="25">
+						<img src="~/assets/icon-tel.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
 					<a href="#">
-						<img src="~/assets/icon-mail.svg" class="icon" width="25">
+						<img src="~/assets/icon-mail.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
 					<a href="#">
-						<img src="~/assets/icon-fb.svg" class="icon" width="25">
+						<img src="~/assets/icon-fb.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
 					<a href="#">
-						<img src="~/assets/icon-youtube.svg" class="icon" width="25">
+						<img src="~/assets/icon-youtube.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
 					<a href="#">
-						<img src="~/assets/icon-ig.svg" class="icon" width="25">
+						<img src="~/assets/icon-ig.svg" class="icon" width="32">
 					</a>
 				</li>
 			</ul>
@@ -95,6 +95,7 @@
     display: flex;
     justify-content:space-around;
     padding-inline-start: 0px;
+	padding-bottom: 50px;
 }
 </style>
 
