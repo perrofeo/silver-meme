@@ -134,6 +134,22 @@ modelos y trabajos realizados." >
                 Modelos Glammy
             </p>
         </b-card>
+        <b-card :img-src="require('../static/1.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Modelos Glammy
+            </p>
+        </b-card>
+        <b-card :img-src="require('../static/3.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Modelos Glammy
+            </p>
+        </b-card>
     </b-card-group>
         </b-container>
     </section>
