@@ -42,7 +42,7 @@
 				</li>
 			</ul>
 		</div>
-           <p>Glammy Modelos y Edecanes © 2018</p>
+           <p>Glammy Modelos y Edecanes © 2019</p>
            <!-- <div>Contáctanos<fa :icon="['fas', 'dollar-sign']" /></div> -->
         </div>
    </div>
@@ -51,7 +51,7 @@
    .site-footer{
   display: block; 
   color: rgba(14,30,37,.38);
-  font-size: .85rem;
+  font-size: .95rem;
   padding-bottom: 2.618em;
   text-align: center;
 }
