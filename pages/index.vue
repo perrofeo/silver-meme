@@ -193,6 +193,8 @@ export default {
 .left{
   text-align:left;
 }
-
+.contacto {
+  background-color: #f2f2f2;
+}
 
 </style>

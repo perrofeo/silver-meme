@@ -40,6 +40,7 @@ h2{
 }
 .card {
   border: none;
+  background-color: transparent;
 }
  .navbar-nav a{
   color: rgba(255, 255, 255, 0.6);
