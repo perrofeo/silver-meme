@@ -31,7 +31,7 @@
     </div>
   </div>      
     <b-container class="bv-example-row text-center bv-example-row-flex-cols">
-    <b-row align-v="center">
+    <b-row>
         <b-col md="6" lg="4"><div>
     <b-card :img-src="require('../static/Serv_Modelos-Edecanes.jpg')"
             class="m-2"
