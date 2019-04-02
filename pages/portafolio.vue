@@ -118,7 +118,7 @@ modelos y trabajos realizados." >
                 longer.
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Port1.png')"
+        <b-card :img-src="require('../static/2.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
