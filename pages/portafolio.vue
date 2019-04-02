@@ -90,7 +90,7 @@ modelos y trabajos realizados." >
         </b-container>
     </section>
     <section class="portafolio-eventos mt-5 text-center">
-        <h2>#SoyGlammy Modelos</h2>
+        <h2>Eventos con el toque Glammy</h2>
         <b-container>
         
     <b-card-group columns>
