@@ -76,6 +76,9 @@
     justify-content: space-between;
     
 }
+.footer-nav a {
+	color: #838383;
+}
 .site-footer ul {
     flex: 1;
     margin-bottom: 0;
