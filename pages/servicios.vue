@@ -67,8 +67,8 @@
             title="Alquiler efectos especiales para fiestas">
         <p class="card-text">
           
-Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:
-- Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.
+Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<br>
+- Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.<br>
 - Máquina eléctrica de confeti.
         </p>
         <a href="#"
