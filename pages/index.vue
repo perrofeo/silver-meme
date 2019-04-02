@@ -128,11 +128,7 @@ Pincha >aquí< para conocer nuestro >portafolio< de >modelos< y los >eventos< re
         <p class="card-text">
             Si buscas un equipo profesional y creativo para que tu evento se vuelva todo un éxito, habla con nosotros!
         </p>
-        <b-btn variant="primary" href="#">Teléfono</b-btn>
-        <b-btn variant="primary" href="#">Email</b-btn>
-        <b-btn variant="primary" href="#">Facebook</b-btn>
-        <b-btn variant="primary" href="#">Instagram</b-btn>
-        <b-btn variant="primary" href="#">Youtube</b-btn>
+        <nuxt-link to="/contacto"><b-btn variant="primary">Contacto</b-btn></nuxt-link>
     </b-card>
   </section>
   <site-footer/>
