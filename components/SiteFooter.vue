@@ -16,35 +16,28 @@
            <div class="footer-nav nav--inline nav--social">
 			<ul>
 				<li>
-					<a href="#" id="cta-footer-twitter">
-						<svg aria-hidden="true" class="icon" width="16" height="16">
-							<use xlink:href="#icon-twitter"></use>
-						</svg>
-						<span class="visuallyhidden">Twitter</span>
+					<a href="#">
+						<img src="~/assets/icon-tel.svg" class="icon" width="25">
 					</a>
 				</li>
 				<li>
-					<a href="#" id="cta-footer-github">
-						<svg aria-hidden="true" class="icon" width="16" height="16">
-							<use xlink:href="#icon-github"></use>
-						</svg>
-						<span class="visuallyhidden">GitHub</span>
+					<a href="#">
+						<img src="~/assets/icon-mail.svg" class="icon" width="25">
 					</a>
 				</li>
 				<li>
-					<a href="#" id="cta-footer-gitter">
-						<svg aria-hidden="true" class="icon" width="16" height="16">
-							<use xlink:href="#icon-gitter"></use>
-						</svg>
-						<span class="visuallyhidden">Gitter</span>
+					<a href="#">
+						<img src="~/assets/icon-fb.svg" class="icon" width="25">
 					</a>
 				</li>
 				<li>
-					<a href="#" id="cta-footer-youtube">
-						<svg aria-hidden="true" class="icon" width="16" height="16">
-							<use xlink:href="#icon-youtube"></use>
-						</svg>
-						<span class="visuallyhidden">Youtube</span>
+					<a href="#">
+						<img src="~/assets/icon-youtube.svg" class="icon" width="25">
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="~/assets/icon-ig.svg" class="icon" width="25">
 					</a>
 				</li>
 			</ul>
@@ -78,7 +71,7 @@
 }
 .footer-nav{
     margin: 1em auto 0;
-    max-width: 29.03em;
+    max-width: 20.03em;
     display: flex;
     justify-content: space-between;
     
@@ -100,7 +93,7 @@
 .nav--inline ul {
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     padding-inline-start: 0px;
 }
 </style>
