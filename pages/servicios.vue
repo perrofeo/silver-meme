@@ -62,6 +62,24 @@
         </b-col>
         <b-col md="6" lg="4">
           <div>
+    <b-card :img-src="require('../static/Serv_Co2.jpg')"
+            class="m-2" 
+            title="Alquiler efectos especiales para fiestas">
+        <p class="card-text">
+          
+Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:
+- Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.
+- Máquina eléctrica de confeti.
+        </p>
+        <a href="#"
+           class="card-link">Card link</a>
+        <b-link href="#"
+                class="card-link">Another link</b-link>
+    </b-card>
+</div>
+        </b-col>
+        <b-col md="6" lg="4">
+          <div>
     <b-card :img-src="require('../static/Serv_Vestimentas.jpg')"
             class="m-2"
             title="Vestimentas personalizadas para eventos">
@@ -83,24 +101,6 @@
         <p class="card-text">
             - Skydancer: ideal para darle frescura a tu marca y generar presencia. Esta publicidad dinámica es muy atractiva y resalta a la vista de todos por su tamaño. Colores disponibles: azul, rojo y morado.<br>
             - Dinosaurio gigante para eventos.
-        </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
-    </b-card>
-</div>
-        </b-col>
-        <b-col md="6" lg="4">
-          <div>
-    <b-card :img-src="require('../static/Serv_Co2.jpg')"
-            class="m-2" 
-            title="Disparo CO2">
-        <p class="card-text">
-          Alquiler efectos especiales para fiestas
-Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:
-- Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.
-- Máquina eléctrica de confeti.
         </p>
         <a href="#"
            class="card-link">Card link</a>
