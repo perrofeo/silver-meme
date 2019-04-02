@@ -132,8 +132,8 @@ modelos y trabajos realizados." >
                 img-top>
             <p class="card-text">
                 Modelos Glammy
-            </p> -->
-        </b-card>
+            </p>
+        </b-card> -->
     </b-card-group>
         </b-container>
     </section>
