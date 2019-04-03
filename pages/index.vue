@@ -158,6 +158,9 @@ export default {
   .container{
     min-height: 80vh;
   }
+  .card {
+  margin-bottom: 4rem;;
+}
 
 </style>
 
@@ -180,9 +183,6 @@ export default {
   background-color: transparent;
 }
 
-.card {
-  border: none;
-}
 .servicios img{
    max-width: 400px;
    height: 100%;
