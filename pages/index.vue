@@ -69,11 +69,12 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
       <b-col lg="6">
         <b-card-body>
           <b-card-text>
-            <h2>Tranquilidad y resultados</h2>
-            <p>En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
-      asegurando que el mensaje de tus productos o servicios sea comunicado de manera exitosa.</p>
+            <h2>Encanta a tus clientes</h2>
+            <p>Los eventos más memorables son aquellos con un toque personal. 
+      Nuestras anfitrionas acogedoras y atentas conforman el equipo perfecto para organizar tu evento promocional, 
+      fiesta, conferencia, feria comercial o exposición.</p>
           </b-card-text>
-          <nuxt-link to="/servicios"><b-btn variant="primary">Servicios</b-btn></nuxt-link>
+          <nuxt-link to="/portafolio"><b-btn variant="primary">Portafolio</b-btn></nuxt-link>
         </b-card-body>
       </b-col>
     </b-row>
@@ -83,12 +84,11 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
       <b-col lg="6">
         <b-card-body>
           <b-card-text>
-            <h2>Encanta a tus clientes</h2>
-            <p>Los eventos más memorables son aquellos con un toque personal. 
-      Nuestras anfitrionas acogedoras y atentas conforman el equipo perfecto para organizar tu evento promocional, 
-      fiesta, conferencia, feria comercial o exposición.</p>
+            <h2>Tranquilidad y resultados</h2>
+            <p>En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
+      asegurando que el mensaje de tus productos o servicios sea comunicado de manera exitosa.</p>
           </b-card-text>
-          <nuxt-link to="/portafolio"><b-btn variant="primary">Portafolio</b-btn></nuxt-link>
+          <nuxt-link to="/servicios"><b-btn variant="primary">Servicios</b-btn></nuxt-link>  
         </b-card-body>
       </b-col>
       <b-col lg="6">
