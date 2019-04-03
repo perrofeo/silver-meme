@@ -72,7 +72,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
             <p>En Glammy Agencia de Modelos y Edecanes nos ocupamos de tu evento promocional para que tu marca realmente se destaque, 
       asegurando que el mensaje de tus productos o servicios sea comunicado de manera exitosa.</p>
           </b-card-text>
-          <b-btn variant="primary" href="#">Servicios</b-btn>
+          <nuxt-link to="/servicios"><b-btn variant="primary">Servicios</b-btn></nuxt-link>
         </b-card-body>
       </b-col>
     </b-row>
@@ -86,7 +86,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
       Nuestras anfitrionas acogedoras y atentas conforman el equipo perfecto para organizar tu evento promocional, 
       fiesta, conferencia, feria comercial o exposición.</p>
           </b-card-text>
-          <b-btn variant="primary" href="#">Portafolio</b-btn>
+          <nuxt-link to="/portafolio"><b-btn variant="primary">Portafolio</b-btn></nuxt-link>
         </b-card-body>
       </b-col>
       <b-col lg="6">
