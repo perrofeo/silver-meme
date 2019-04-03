@@ -119,8 +119,17 @@ background: linear-gradient(to right, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f14021', endColorstr='#fa9923', GradientType=1 );
 border: none;
 }
-.btn-primary:hover {
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #df5735;
+}
+.btn-primary:not(:disabled):not(.disabled):active:focus {
+  box-shadow: none;
+}
+.btn-primary:focus {
+  box-shadow: none;
+}
+.btn-primary:not(:disabled):not(.disabled):active{
+  background-color: #df5735;
 }
 .button--green {
   display: inline-block;
