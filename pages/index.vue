@@ -40,7 +40,7 @@ Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus ne
   </div>
   <section class="servicios" id="presentacion">
     <b-container>
-      <b-row align-h="center">
+      <b-row>
         <b-col sm="10" md="12" >
           
           
@@ -156,7 +156,7 @@ export default {
   background-position: center;
    }
   .container{
-    min-height: 90vh;
+    min-height: 80vh;
   }
 
 </style>

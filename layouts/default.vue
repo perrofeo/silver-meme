@@ -32,12 +32,14 @@ body{
 
 h1{
   letter-spacing: -0.03em;
+  color: #424242;
 }
 
 h2{
   letter-spacing: -0.02em;
   font-weight: 700;
   font-size: 1.8rem;
+  color: #424242;
 }
 p {
   color: #595959;
@@ -146,6 +148,7 @@ p {
 .lead {
     font-size: 1.1rem;
     font-weight: 300;
+    padding: 1rem;
 }
 .contacto .card{
   max-width: 600px;
