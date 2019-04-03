@@ -158,7 +158,7 @@ export default {
   .container{
     min-height: 80vh;
   }
-  .card {
+  .servicios .card {
   margin-bottom: 4rem;;
 }
 
