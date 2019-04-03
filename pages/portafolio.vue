@@ -202,9 +202,9 @@ modelos y trabajos realizados." >
 
     
     <section class="contacto">
-    <b-card title="¿Quieres saber más sobre nuestros servicios?"
-            sub-title="Habla con nosotros."
-            class="text-center">
+    <b-card class="text-center">
+            <h2>¿Quieres saber más sobre nuestros servicios?</h2>
+            <p>Habla con nosotros</p>
         <nuxt-link to="/contacto"><b-btn variant="primary">Contacto</b-btn></nuxt-link>
     </b-card>
   </section>
