@@ -39,10 +39,6 @@
         <p class="card-text">
             Ofrecemos anfitrionas capacitadas y supervisadas ​​para dar una calurosa bienvenida a sus invitados y ocuparse de su fiesta o evento promocional.
         </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
     </b-card>
 </div></b-col>
         <b-col md="6" lg="4">
@@ -53,10 +49,6 @@
         <p class="card-text">
             Una producción original de Glammy perfecta para llevar tu fiesta a otro nivel! El show se ofrece en formato flexible y puede incluir: modelos Glammy, disparos de Co2, confeti, souvenirs y led sticks.
         </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
     </b-card>
 </div>
         </b-col>
@@ -71,10 +63,6 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
 - Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.<br>
 - Máquina eléctrica de confeti.
         </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
     </b-card>
 </div>
         </b-col>
@@ -86,10 +74,6 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
         <p class="card-text">
             Agregue el toque final a tu evento con nuestros uniformes y trajes.
         </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
     </b-card>
 </div>
         </b-col>
@@ -102,10 +86,6 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
             - Skydancer: ideal para darle frescura a tu marca y generar presencia. Esta publicidad dinámica es muy atractiva y resalta a la vista de todos por su tamaño. Colores disponibles: azul, rojo y morado.<br>
             - Dinosaurio gigante para eventos.
         </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
     </b-card>
 </div>
         </b-col>
@@ -117,10 +97,6 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
         <p class="card-text">
             Promueve tu marca, tienda, servicios y productos con resultados efectivos y a bajo costo con nuestras influencers.
         </p>
-        <a href="#"
-           class="card-link">Card link</a>
-        <b-link href="#"
-                class="card-link">Another link</b-link>
     </b-card>
 </div>
         </b-col>
@@ -132,7 +108,7 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
             sub-title="Habla con nosotros."
             class="text-center">
         
-        <b-btn variant="primary" href="#">+ Info</b-btn>
+        <nuxt-link to="/contacto"><b-btn variant="primary">Contacto</b-btn></nuxt-link>
     </b-card>
   </section>
   <site-footer/>

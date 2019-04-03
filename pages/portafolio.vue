@@ -190,7 +190,7 @@ modelos y trabajos realizados." >
             sub-title="Habla con nosotros."
             class="text-center">
         
-        <b-btn variant="primary" href="#">+ Info</b-btn>
+        <nuxt-link to="/contacto"><b-btn variant="primary">Contacto</b-btn></nuxt-link>
     </b-card>
   </section>
   <site-footer/>
