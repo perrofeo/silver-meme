@@ -35,8 +35,9 @@ h1{
 }
 
 h2{
-  letter-spacing: -0.015em;
+  letter-spacing: -0.02em;
   font-weight: 700;
+  font-size: 1.8rem;
 }
 .card {
   border: none;
