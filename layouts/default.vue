@@ -115,6 +115,9 @@ background: -ms-linear-gradient(left, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 1
 background: linear-gradient(to right, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 12%, rgba(250,153,35,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f14021', endColorstr='#fa9923', GradientType=1 );
 }
+.btn-primary:hover {
+  background: #df5735;
+}
 .button--green {
   display: inline-block;
   border-radius: 4px;
