@@ -105,6 +105,9 @@ p {
   opacity: 0;
   transform: translate(-30px, 0);
 }
+.btn {
+  transition: none;
+}
 .btn-primary {
   background: rgba(241,64,33,1);
 background: -moz-linear-gradient(left, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 12%, rgba(250,153,35,1) 100%);
@@ -114,6 +117,7 @@ background: -o-linear-gradient(left, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 12
 background: -ms-linear-gradient(left, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 12%, rgba(250,153,35,1) 100%);
 background: linear-gradient(to right, rgba(241,64,33,1) 0%, rgba(247,100,32,1) 12%, rgba(250,153,35,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f14021', endColorstr='#fa9923', GradientType=1 );
+border: none;
 }
 .btn-primary:hover {
   background: #df5735;
