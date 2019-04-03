@@ -43,6 +43,7 @@ h2{
 }
 h4 {
   font-weight: 700;
+  letter-spacing: -0.02em;
 }
 p {
   color: #595959;
