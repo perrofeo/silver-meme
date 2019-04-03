@@ -86,6 +86,22 @@ modelos y trabajos realizados." >
                 Thalia Aguirre
             </p>
         </b-card>
+        <b-card :img-src="require('../static/Modelo5_Rachel-Chollette.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Rachel Chollette
+            </p>
+        </b-card>
+        <b-card :img-src="require('../static/Modelo6_Izamar-Campuzano.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Izamar Campuzano
+            </p>
+        </b-card>
     </b-card-group>
         </b-container>
     </section>
