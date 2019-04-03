@@ -41,6 +41,9 @@ h2{
   font-size: 1.8rem;
   color: #424242;
 }
+h4 {
+  font-weight: 700;
+}
 p {
   color: #595959;
 }
