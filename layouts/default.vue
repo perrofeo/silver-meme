@@ -39,6 +39,9 @@ h2{
   font-weight: 700;
   font-size: 1.8rem;
 }
+p {
+  color: #595959;
+}
 .card {
   border: none;
   background-color: transparent;
