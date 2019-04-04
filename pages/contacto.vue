@@ -41,6 +41,20 @@
 que tu evento o acción de marketing se vuelva
 todo un éxito, contáctanos.</p>
         </b-col>
+        <div class="nav--inline2">
+			<ul>
+				<li>
+					<a href="tel:+50585014766" target="_blank" rel="noopener">
+						<img src="~assets/icon-tel2.svg" class="icon-tel" width="50" alt="icon-telefono" title="Teléfono">
+					</a>
+				</li>
+				<li>
+					<a href="https://m.me/glammymodelos" target="_blank" rel="noopener">
+						<img src="~assets/icon-msg.svg" class="icon" width="50" alt="icon-messenger" title="Messenger">
+					</a>
+				</li>
+			</ul>
+		</div>
     </b-row>
 </b-container>
 
@@ -64,6 +78,19 @@ components:{
   .portada {
     background-position: top;
   }
+  .nav--inline2 {
+    margin: auto;
+  }
+  .nav--inline2 ul {
+    align-items: center;
+    display: flex;
+    margin: 0;
+    list-style: none;
+    padding-left: 0;
+}
+.icon-tel {
+  margin-right: 30px;
+}
 </style>
 
 <style>
