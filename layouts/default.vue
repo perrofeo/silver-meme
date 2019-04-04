@@ -186,7 +186,7 @@ border: none;
 }
 .lead {
     font-size: 1.1rem;
-    font-weight: 300;
+    font-weight: 600;
     padding: 1rem;
 }
 .contacto .card{
