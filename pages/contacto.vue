@@ -102,6 +102,9 @@ components:{
       padding: 2rem 2rem;
       margin: auto;
     }
+    .text-contacto p {
+      font-size: 1.1rem;
+    }
     .text-contacto a {
       color: #424242;
       font-weight: 700;
