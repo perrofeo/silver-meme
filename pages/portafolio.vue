@@ -159,10 +159,10 @@ modelos y trabajos realizados." >
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+                    El uso de Glammy para nuestros eventos corporativos, activaciones y merchandising nos abrió una gama de nuevos servicios en nuevas zonas del país. Ahora nuestros eventos cuentan con el respaldo profesional que ayuda a potencializar nuestra marca de cara a nuestros clientes y generar el top of mind que todas las empresas buscan.
                 </p>
                 <footer>
-                    <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                    <small>Ulises Cruz, Gerente de Ventas y Mercadeo <cite title="Source Title">Yota de Nicaragua</cite></small>
                 </footer>
             </blockquote>
         </b-card>

@@ -21,7 +21,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="mailto:contacto@glammymodelos.com" target="_blank" rel="noopener">
+					<a href="mailto:contacto@glammymodelos.com">
 						<img src="~/assets/icon-mail.svg" class="icon" width="32">
 					</a>
 				</li>

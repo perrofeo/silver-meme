@@ -46,6 +46,7 @@ module.exports = {
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
     'vue-scrollto/nuxt',
+    '@nuxtjs/pwa',
     ['nuxt-fontawesome', {
       component: 'fa',
       imports: [
