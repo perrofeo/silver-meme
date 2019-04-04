@@ -159,7 +159,7 @@ modelos y trabajos realizados." >
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
-                    "El uso de Glammy para nuestros eventos corporativos, activaciones y merchandising nos abrió una gama de nuevos servicios en nuevas zonas del país. Ahora nuestros eventos cuentan con el respaldo profesional que ayuda a potencializar nuestra marca de cara a nuestros clientes y generar el top of mind que todas las empresas buscan.""
+                    "El uso de Glammy para nuestros eventos corporativos, activaciones y merchandising nos abrió una gama de nuevos servicios en nuevas zonas del país. Ahora nuestros eventos cuentan con el respaldo profesional que ayuda a potencializar nuestra marca de cara a nuestros clientes y generar el top of mind que todas las empresas buscan."
                 </p>
                 <footer>
                     <small>Ulises Cruz, Gerente de Ventas y Mercadeo <cite title="Source Title">Yota de Nicaragua</cite></small>
@@ -266,7 +266,14 @@ components:{
         background-color: transparent;
     }
     .opinion {
-        background: #424242;
+        background: rgba(77,77,77,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(77,77,77,1) 0%, rgba(51,51,51,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(77,77,77,1)), color-stop(100%, rgba(51,51,51,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(77,77,77,1) 0%, rgba(51,51,51,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(77,77,77,1) 0%, rgba(51,51,51,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(77,77,77,1) 0%, rgba(51,51,51,1) 100%);
+background: radial-gradient(ellipse at center, rgba(77,77,77,1) 0%, rgba(51,51,51,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4d4d4d', endColorstr='#333333', GradientType=1 );
     }
     .opinion p {
         color: white;
