@@ -161,6 +161,12 @@ export default {
   .servicios .card {
   margin-bottom: 4rem;
 }
+.servicios p {
+  font-size: 1.1rem;
+}
+.contacto p {
+  font-size: 1.1rem;
+}
 
 </style>
 
