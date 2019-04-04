@@ -67,7 +67,7 @@ modelos y trabajos realizados." >
                 Belén Blandon
             </p>
         </b-card>
-        <b-card bg-variant="primary"
+        <b-card class="opinion"
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
@@ -240,5 +240,17 @@ components:{
     }
     .portada-portafolio .jumbotron{
         background-color: transparent;
+    }
+    .opinion {
+        background: #424242;
+    }
+    .opinion p {
+        color: white;
+    }
+    .portafolio-modelos h2, .portafolio-eventos h2  {
+       padding-bottom: 1rem;
+    }
+    .portafolio-modelos .card-text {
+        font-weight: 700;
     }
 </style>
