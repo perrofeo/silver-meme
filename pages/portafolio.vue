@@ -72,10 +72,10 @@ modelos y trabajos realizados." >
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+                    "Trabajar con las modelos de Glammy ha sido toda una experiencia de profesionalismo y tranquilidad. Además nuestros clientes no podrían haber quedado más encantados."
                 </p>
                 <footer>
-                    <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                    <small>Jonathan González, CEO <cite title="Source Title">Woods Lounge Bar</cite></small>
                 </footer>
             </blockquote>
         </b-card>
