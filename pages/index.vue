@@ -171,6 +171,9 @@ export default {
 .header .container{
   justify-content: center;
 }
+.header .btn-primary {
+  font-weight: 700;
+}
 .container {
   
   display: flex;

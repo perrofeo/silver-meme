@@ -30,16 +30,16 @@
     </div>
 </div>
 
-    <b-container class="bv-example-row text-center">
+    <b-container class="bv-example-row text-center text-contacto">
          
     <b-row>
       
         <b-col cols="12">
           
-        <h1>Trabajemos juntos</h1>
-        <h2>Si buscas un equipo profesional y creativo para
+        <h2>Trabajemos juntos</h2>
+        <p>Si buscas un equipo profesional y creativo para
 que tu evento o acción de marketing se vuelva
-todo un éxito, contáctanos.</h2>
+todo un éxito, contáctanos.</p>
         </b-col>
     </b-row>
 </b-container>
@@ -60,10 +60,16 @@ components:{
    }
 }
 </script>
+<style scoped>
+  .portada {
+    background-position: center;
+  }
+</style>
 
 <style>
   .portada{
          background-image: url("~assets/GLAMMY_background_CONTACTO.svg");
+
          min-height: 40vh;
     }
     
@@ -71,12 +77,15 @@ components:{
       margin: auto;
     }
     .glammy_img img{
-      max-width: 350px;
+      max-width: 300px;
       width: 100%;
       height: 100%;
     }
     .portada-contacto{
       padding-top: 100px;
+    }
+    .text-contacto {
+      max-width: 600px;;
     }
 </style>
 

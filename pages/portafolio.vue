@@ -51,20 +51,21 @@ modelos y trabajos realizados." >
                 Mercedes Martinez
             </p>
         </b-card>
+        <b-card :img-src="require('../static/Modelo6_Izamar-Campuzano.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Izamar Campuzano
+            </p>
+        </b-card>
+        
         <b-card :img-src="require('../static/Modelo2_Nahomi-Espinoza.jpg')"
                 img-fluid
                 img-alt="image"
                 img-top>
             <p class="card-text">
                 Nahomi Espinoza
-            </p>
-        </b-card>
-        <b-card :img-src="require('../static/Modelo3_Belen-Blandon.jpg')"
-                img-fluid
-                img-alt="image"
-                img-top>
-            <p class="card-text">
-                Belén Blandon
             </p>
         </b-card>
         <b-card class="opinion"
@@ -77,6 +78,14 @@ modelos y trabajos realizados." >
                     <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
                 </footer>
             </blockquote>
+        </b-card>
+        <b-card :img-src="require('../static/Modelo3_Belen-Blandon.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Belén Blandon
+            </p>
         </b-card>
         <b-card :img-src="require('../static/Modelo4_Thalia-Aguirre.jpg')"
                 img-fluid
@@ -94,14 +103,6 @@ modelos y trabajos realizados." >
                 Rachel Chollette
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Modelo6_Izamar-Campuzano.jpg')"
-                img-fluid
-                img-alt="image"
-                img-top>
-            <p class="card-text">
-                Izamar Campuzano
-            </p>
-        </b-card>
     </b-card-group>
         </b-container>
     </section>
@@ -110,28 +111,7 @@ modelos y trabajos realizados." >
         <b-container>
         
     <b-card-group columns>
-        <b-card>
-             <b-embed
-    type="iframe"
-    aspect="16by9"
-    src="https://www.youtube.com/embed/WBQo501LP7A?rel=0"
-    allowfullscreen
-  ></b-embed>   
-            <p class="card-text">
-                Bliss Lounge Estelí
-            </p>
-        </b-card>
-        <b-card>
-             <b-embed
-    type="iframe"
-    aspect="16by9"
-    src="https://www.youtube.com/embed/MIis3_mlefc?rel=0"
-    allowfullscreen
-  ></b-embed>   
-            <p class="card-text">
-                9º Aniversario Woods Lounge Bar - Matagalpa 
-            </p>
-        </b-card>
+        
         <b-card :img-src="require('../static/2.jpg')"
                 img-fluid
                 img-alt="image"
@@ -148,6 +128,7 @@ modelos y trabajos realizados." >
                 Amenizando la noche en Hard Bar Estelí
             </p>
         </b-card>
+        
         <b-card :img-src="require('../static/1.jpg')"
                 img-fluid
                 img-alt="image"
@@ -155,6 +136,27 @@ modelos y trabajos realizados." >
             <p class="card-text">
                 Fiesta Hallow Bash en Woods Lounge Bar - Matagalpa 
             </p>
+        </b-card>
+        
+        <b-card class="video">
+             <b-embed
+    type="iframe"
+    aspect="16by9"
+    src="https://www.youtube.com/embed/WBQo501LP7A?rel=0"
+    allowfullscreen
+  ></b-embed>   
+            
+        </b-card>
+        <b-card class="opinion"
+                text-variant="white">
+            <blockquote class="card-blockquote">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+                </p>
+                <footer>
+                    <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+                </footer>
+            </blockquote>
         </b-card>
         <b-card :img-src="require('../static/3.jpg')"
                 img-fluid
@@ -180,6 +182,7 @@ modelos y trabajos realizados." >
                 2º Aniversario Chefellas Matagalpa
             </p>
         </b-card>
+        
         <b-card :img-src="require('../static/7.jpg')"
                 img-fluid
                 img-alt="image"
@@ -187,6 +190,15 @@ modelos y trabajos realizados." >
             <p class="card-text">
                 En Woods Matagalpa
             </p>
+        </b-card>
+        <b-card class="video">
+             <b-embed
+    type="iframe"
+    aspect="16by9"
+    src="https://www.youtube.com/embed/MIis3_mlefc?rel=0"
+    allowfullscreen
+  ></b-embed>   
+            
         </b-card>
         <b-card :img-src="require('../static/5.jpg')"
                 img-fluid
@@ -203,9 +215,8 @@ modelos y trabajos realizados." >
     
     <section class="contacto">
     <b-card class="text-center">
-            <h2>¿Quieres saber más sobre nuestros servicios?</h2>
-            <p>Habla con nosotros</p>
-        <nuxt-link to="/contacto"><b-btn variant="primary">Contacto</b-btn></nuxt-link>
+            <h2>¿Quieres dar un toque especial a tu evento?</h2>
+        <nuxt-link to="/contacto"><b-btn variant="primary">Contáctanos</b-btn></nuxt-link>
     </b-card>
   </section>
   <site-footer/>
@@ -253,4 +264,13 @@ components:{
     .portafolio-modelos .card-text {
         font-weight: 700;
     }
+    .portafolio-eventos {
+        padding-bottom: 4rem;
+    }
+    .contacto h2 {
+    margin-bottom: 1.2rem;
+}
+.video .card-body {
+    padding: 0;
+}
 </style>
