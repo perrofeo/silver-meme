@@ -100,6 +100,7 @@ components:{
     .text-contacto {
       max-width: 600px;
       padding: 2rem 2rem;
+      margin: auto;
     }
     .text-contacto a {
       color: #424242;
