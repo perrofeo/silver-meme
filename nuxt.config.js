@@ -7,6 +7,9 @@ module.exports = {
   ** Headers of the page
   */
   head: {
+    htmlAttrs: {
+      lang: 'es'
+    },
     title: 'Glammy Modelos y Edecanes',
     meta: [
       { charset: 'utf-8' },
