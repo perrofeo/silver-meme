@@ -159,7 +159,10 @@ export default {
     min-height: 80vh;
   }
   .servicios .card {
-  margin-bottom: 4rem;;
+  margin-bottom: 4rem;
+}
+.contacto {
+  padding: 1rem 0;
 }
 
 </style>
