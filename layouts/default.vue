@@ -55,6 +55,7 @@ p {
 }
 .contacto {
   padding: 1rem 0;
+  background-color: #f2f2f2;
 }
  .navbar-nav a{
   color: rgba(255, 255, 255, 0.6);

@@ -60,8 +60,8 @@
         <p class="card-text">
           
 Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<br>
-- Pistola CO2 LED: incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.<br>
-- Máquina eléctrica de confeti.
+✦ <strong>Pistola CO2 LED:</strong> incluye manguera de 3 metros, cilindro CO2 y mochila para el cilindro.<br>
+✦ <strong>Máquina eléctrica de confeti.</strong>
         </p>
     </b-card>
 </div>
@@ -83,8 +83,7 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
             class="m-2" 
             title="Publicidad dinámica">
         <p class="card-text">
-            - Skydancer: ideal para darle frescura a tu marca y generar presencia. Esta publicidad dinámica es muy atractiva y resalta a la vista de todos por su tamaño. Colores disponibles: azul, rojo y morado.<br>
-            - Dinosaurio gigante para eventos.
+            ✦ <strong>Skydancer:</strong> ideal para darle frescura a tu marca y generar presencia. Esta publicidad dinámica es muy atractiva y resalta a la vista de todos por su tamaño. Colores disponibles: azul, rojo y morado.
         </p>
     </b-card>
 </div>
