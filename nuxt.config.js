@@ -11,7 +11,13 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: pkg.description }
+      { name: 'keywords', content: 'eventos,modelos,edecanes,matagalpa,nicaragua,influencers,hostess,promoter,pistola co2,confeti,merchandising' },
+      { hid: 'description', name: 'description', content: 'Somos una joven agencia de modelos y edecanes capacitados para dar una cálida bienvenida a tus clientes e invitados. Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus necesidades.' },
+      { property:'og:title', content: 'Glammy Modelos y Edecanes' },
+      { property:'og:type', content: 'Website' },
+      { property:'og:url', content: '' },
+      { property:'og:image', content: '' },
+      { property:'og:description', content: 'Somos una joven agencia de modelos y edecanes capacitados para dar una cálida bienvenida a tus clientes e invitados. Cuidamos de cada detalle de tu evento ofreciendo servicios a la medida de tus necesidades.' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
