@@ -30,7 +30,7 @@
     </div>
 </div>
 
-    <b-container class="bv-example-row text-center text-contacto">
+    <div class="text-center text-contacto">
           
         <h2>Trabajemos juntos</h2>
         <p>Si buscas un equipo profesional y creativo para
@@ -54,7 +54,7 @@ todo un éxito, contáctanos.</p>
         <a href="tel:+50585014766" target="_blank" rel="noopener">+505 85014766</a></p>
         <p>Correo electrónico<br>
           <a href="mailto:contacto@glammymodelos.com">contacto@glammymodelos.com</a></p>
-</b-container>
+</div>
 
     
     
