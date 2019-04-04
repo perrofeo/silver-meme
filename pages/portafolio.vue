@@ -72,7 +72,7 @@ modelos y trabajos realizados." >
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
-                    "Trabajar con las modelos de Glammy ha sido toda una experiencia de profesionalismo y tranquilidad. Además nuestros clientes no podrían haber quedado más encantados."
+                    “Trabajar con las modelos de Glammy ha sido toda una experiencia de profesionalismo y tranquilidad. Además nuestros clientes no podrían haber quedado más encantados.”
                 </p>
                 <footer>
                     <small>Jonathan González, CEO <cite title="Source Title">Woods Lounge Bar</cite></small>
@@ -159,7 +159,7 @@ modelos y trabajos realizados." >
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
-                    "El uso de Glammy para nuestros eventos corporativos, activaciones y merchandising nos abrió una gama de nuevos servicios en nuevas zonas del país. Ahora nuestros eventos cuentan con el respaldo profesional que ayuda a potencializar nuestra marca de cara a nuestros clientes y generar el top of mind que todas las empresas buscan."
+                    “El uso de Glammy para nuestros eventos corporativos, activaciones y merchandising nos abrió una gama de nuevos servicios en nuevas zonas del país. Ahora nuestros eventos cuentan con el respaldo profesional que ayuda a potencializar nuestra marca de cara a nuestros clientes y generar el top of mind que todas las empresas buscan.”
                 </p>
                 <footer>
                     <small>Ulises Cruz, Gerente de Ventas y Mercadeo <cite title="Source Title">Yota de Nicaragua</cite></small>
