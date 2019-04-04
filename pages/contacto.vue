@@ -5,7 +5,7 @@
   <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
-        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34">
+        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34" alt="logo Glammy">
   </b-navbar-brand>
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -25,7 +25,7 @@
 </b-navbar>
     <div class="portada-contacto text-center">
       <div class="glammy_img">
-            <img src="~/assets/LOGO_JONATHAN.png">
+            <img src="~/assets/LOGO_JONATHAN.png" alt="logo Glammy">
           </div>
     </div>
 </div>

@@ -5,7 +5,7 @@
   <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
-        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34">
+        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34" alt="logo Glammy">
   </b-navbar-brand>
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -34,6 +34,7 @@
     <b-row>
         <b-col md="6" lg="4"><div>
     <b-card :img-src="require('../static/Serv_Modelos-Edecanes.jpg')"
+            img-alt="modelos Glammy"
             class="m-2"
             title="Modelos y Edecanes">
         <p class="card-text">
@@ -44,6 +45,7 @@
         <b-col md="6" lg="4">
           <div>
     <b-card :img-src="require('../static/Serv_Dinosaurio.jpg')"
+            img-alt="dinosaurio Glammy"
             class="m-2"
             title="Show Dinosaurio Lesbiano">
         <p class="card-text">
@@ -55,6 +57,7 @@
         <b-col md="6" lg="4">
           <div>
     <b-card :img-src="require('../static/Serv_Co2.jpg')"
+            img-alt="efectos especiales Glammy"
             class="m-2" 
             title="Alquiler efectos especiales para fiestas">
         <p class="card-text">
@@ -69,6 +72,7 @@ Impresiona a tus invitados con nuestros efectos escénicos:<br>
         <b-col md="6" lg="4">
           <div>
     <b-card :img-src="require('../static/Serv_Vestimentas.jpg')"
+            img-alt="vestimenta Glammy"
             class="m-2"
             title="Vestimentas personalizadas para eventos">
         <p class="card-text">
@@ -80,6 +84,7 @@ Impresiona a tus invitados con nuestros efectos escénicos:<br>
         <b-col md="6" lg="4">
           <div>
     <b-card :img-src="require('../static/Serv_Skydancer.jpg')"
+            img-alt="publicidad Glammy"
             class="m-2" 
             title="Publicidad dinámica">
         <p class="card-text">
@@ -91,6 +96,7 @@ Impresiona a tus invitados con nuestros efectos escénicos:<br>
         <b-col md="6" lg="4">
           <div>
     <b-card :img-src="require('../static/Serv_Influencers.jpg')"
+            img-alt="influencers Glammy"
             class="m-2" 
             title="Influencers">
         <p class="card-text">

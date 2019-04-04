@@ -5,7 +5,7 @@
   <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
-        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34">
+        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34" alt="logo Glammy">
   </b-navbar-brand>
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -44,8 +44,8 @@ modelos y trabajos realizados." >
         
     <b-card-group columns>
         <b-card :img-src="require('../static/Modelo1_Mercedes-Martinez.jpg')"
+                img-alt="modelo Glammy"
                 img-fluid
-                img-alt="image"
                 img-top>
             <p class="card-text">
                 Mercedes Martinez
@@ -53,7 +53,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/Modelo6_Izamar-Campuzano.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Izamar Campuzano
@@ -62,7 +62,7 @@ modelos y trabajos realizados." >
         
         <b-card :img-src="require('../static/Modelo2_Nahomi-Espinoza.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Nahomi Espinoza
@@ -81,7 +81,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/Modelo3_Belen-Blandon.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Belén Blandon
@@ -89,7 +89,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/Modelo4_Thalia-Aguirre.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Thalia Aguirre
@@ -97,7 +97,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/Modelo5_Rachel-Chollette.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Rachel Chollette
@@ -114,7 +114,7 @@ modelos y trabajos realizados." >
         
         <b-card :img-src="require('../static/2.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Fiesta Summer Love en Bliss Lounge Estelí
@@ -122,7 +122,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/4.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Amenizando la noche en Hard Bar Estelí
@@ -131,7 +131,7 @@ modelos y trabajos realizados." >
         
         <b-card :img-src="require('../static/1.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Fiesta Hallow Bash en Woods Lounge Bar - Matagalpa 
@@ -149,7 +149,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/8.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Evento promocional Yota de Nicaragua
@@ -168,7 +168,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/3.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Viral Party en Hard Bar Estelí
@@ -176,7 +176,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/GLAM_HOME1_Tranquilidad.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Acción de marketing Cámara de Comercio Matagalpa
@@ -184,7 +184,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/6.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 2º Aniversario Chefellas Matagalpa
@@ -193,7 +193,7 @@ modelos y trabajos realizados." >
         
         <b-card :img-src="require('../static/7.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 En Woods Matagalpa
@@ -210,7 +210,7 @@ modelos y trabajos realizados." >
         </b-card>
         <b-card :img-src="require('../static/5.jpg')"
                 img-fluid
-                img-alt="image"
+                img-alt="evento Glammy"
                 img-top>
             <p class="card-text">
                 Inauguración Little Fellas Matagalpa

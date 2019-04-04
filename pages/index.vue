@@ -5,7 +5,7 @@
   <b-navbar toggleable="md" type="light" variant="">
 
   <b-navbar-brand to="/">
-        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34">
+        <img src="~/assets/LOGOPORTADA.svg" aria-label="Glammy" class="logo" width="auto" height="34" alt="logo Glammy">
   </b-navbar-brand>
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -64,7 +64,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
   <b-card no-body class="overflow-hidden">
     <b-row no-gutters>
       <b-col lg="6">
-        <b-card-img :src="require('../static/GLAM_HOME2_Encanta.jpg')"></b-card-img>
+        <b-card-img :src="require('../static/GLAM_HOME2_Encanta.jpg')" alt="evento Glammy"></b-card-img>
       </b-col>
       <b-col lg="6">
         <b-card-body>
@@ -82,7 +82,7 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
   <b-card no-body class="overflow-hidden">
     <b-row no-gutters>
       <b-col lg="6" order-lg="2">
-        <b-card-img :src="require('../static/GLAM_HOME2.jpg')"></b-card-img>
+        <b-card-img :src="require('../static/GLAM_HOME2.jpg')" alt="evento Glammy"></b-card-img>
       </b-col>
       <b-col lg="6" order-lg="1">
         <b-card-body>
