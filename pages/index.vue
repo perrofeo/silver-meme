@@ -81,7 +81,10 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
   </b-card>
   <b-card no-body class="overflow-hidden">
     <b-row no-gutters>
-      <b-col lg="6">
+      <b-col lg="6" order-lg="2">
+        <b-card-img :src="require('../static/GLAM_HOME2.jpg')"></b-card-img>
+      </b-col>
+      <b-col lg="6" order-lg="1">
         <b-card-body>
           <b-card-text>
             <h2>Tranquilidad y resultados</h2>
@@ -90,9 +93,6 @@ Desde el sonido hasta la vestimenta adecuada, con nuestros >servicios< y equipo 
           </b-card-text>
           <nuxt-link to="/servicios"><b-btn variant="primary">Servicios</b-btn></nuxt-link>  
         </b-card-body>
-      </b-col>
-      <b-col lg="6">
-        <b-card-img :src="require('../static/GLAM_HOME2.jpg')"></b-card-img>
       </b-col>
     </b-row>
   </b-card>

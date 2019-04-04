@@ -17,7 +17,7 @@
        <b-nav-item class="inicio" to="/">Inicio</b-nav-item>
        <b-nav-item to="/servicios">Servicios</b-nav-item>
        <b-nav-item to="/portafolio">Portafolio</b-nav-item>
-       <b-nav-item to="/contacto">Contacto</b-nav-item>
+       <b-nav-item class="linkcont" to="/contacto">Contacto</b-nav-item>
 
     </b-navbar-nav>
 
@@ -87,6 +87,12 @@ components:{
     .text-contacto {
       max-width: 600px;;
     }
+    @media (max-width: 768px) {
+  .linkcont a{
+    color: #424242 !important;
+  }
+  
+}
 </style>
 
     

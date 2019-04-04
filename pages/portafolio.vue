@@ -147,6 +147,14 @@ modelos y trabajos realizados." >
   ></b-embed>   
             
         </b-card>
+        <b-card :img-src="require('../static/8.jpg')"
+                img-fluid
+                img-alt="image"
+                img-top>
+            <p class="card-text">
+                Evento promocional Yota Nicaragua
+            </p>
+        </b-card>
         <b-card class="opinion"
                 text-variant="white">
             <blockquote class="card-blockquote">
