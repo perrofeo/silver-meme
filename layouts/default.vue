@@ -60,6 +60,10 @@ p {
  .navbar-nav a{
   color: rgba(255, 255, 255, 0.6);
 }
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    border-color: transparent;
+}
 .navbar-light .navbar-nav .nav-link.active {
      color: white;
 }
