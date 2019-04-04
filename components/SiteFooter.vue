@@ -4,7 +4,7 @@
         <div class="footer-container">
            <div class="hr hr--top">
 			<nuxt-link to="/" id="cta-footer-glammyLogo">
-				<img src="~/assets/GLAMMY_FAVICON.svg" aria-label="Glammy" class="logo" width="40" height="40">
+				<img src="~/assets/GLAMMY_FAVICON.svg" aria-label="Glammy" class="logo" width="40" height="40" alt="logo Glammy">
 				
 			</nuxt-link>
 			<div class="footer-nav">
@@ -17,27 +17,27 @@
 			<ul>
 				<li>
 					<a href="tel:+50585014766" target="_blank" rel="noopener">
-						<img src="~/assets/icon-tel.svg" class="icon" width="32">
+						<img src="~/assets/icon-tel.svg" class="icon" width="32" alt="icon-telefono">
 					</a>
 				</li>
 				<li>
 					<a href="mailto:contacto@glammymodelos.com">
-						<img src="~/assets/icon-mail.svg" class="icon" width="32">
+						<img src="~/assets/icon-mail.svg" class="icon" width="32" alt="icon-mail">
 					</a>
 				</li>
 				<li>
 					<a href="https://www.facebook.com/glammymodelos/" target="_blank" rel="noopener">
-						<img src="~/assets/icon-fb.svg" class="icon" width="32">
+						<img src="~/assets/icon-fb.svg" class="icon" width="32" alt="icon-fb">
 					</a>
 				</li>
 				<li>
 					<a href="https://www.youtube.com/channel/UCW7eKWpIIC1RCCYCFsyWbLg" target="_blank" rel="noopener">
-						<img src="~/assets/icon-youtube.svg" class="icon" width="32">
+						<img src="~/assets/icon-youtube.svg" class="icon" width="32" alt="icon-youtube">
 					</a>
 				</li>
 				<li>
 					<a href="https://www.instagram.com/glammymodelos1/" target="_blank" rel="noopener">
-						<img src="~/assets/icon-ig.svg" class="icon" width="32">
+						<img src="~/assets/icon-ig.svg" class="icon" width="32" icon-instagram>
 					</a>
 				</li>
 			</ul>
