@@ -16,27 +16,27 @@
            <div class="footer-nav nav--inline nav--social">
 			<ul>
 				<li>
-					<a href="#">
+					<a href="tel:+50585014766" target="_blank" rel="noopener">
 						<img src="~/assets/icon-tel.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
-					<a href="#">
+					<a href="mailto:contacto@glammymodelos.com" target="_blank" rel="noopener">
 						<img src="~/assets/icon-mail.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
-					<a href="#">
+					<a href="https://www.facebook.com/glammymodelos/" target="_blank" rel="noopener">
 						<img src="~/assets/icon-fb.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
-					<a href="#">
+					<a href="https://www.youtube.com/channel/UCW7eKWpIIC1RCCYCFsyWbLg" target="_blank" rel="noopener">
 						<img src="~/assets/icon-youtube.svg" class="icon" width="32">
 					</a>
 				</li>
 				<li>
-					<a href="#">
+					<a href="https://www.instagram.com/glammymodelos1/" target="_blank" rel="noopener">
 						<img src="~/assets/icon-ig.svg" class="icon" width="32">
 					</a>
 				</li>
@@ -79,6 +79,9 @@
 .footer-nav a {
 	color: #838383;
 	font-size: 0.95rem;
+}
+.footer-nav p {
+	color: #838383;
 }
 .site-footer ul {
     flex: 1;
