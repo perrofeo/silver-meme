@@ -106,8 +106,7 @@ Impresiona y anima a tus invitados con nuestros equipos de efectos escénicos:<b
     <section class="contacto">
     <b-card class="text-center">
         <h2>¿Quieres saber más sobre nuestros servicios?</h2>
-        <p>Habla con nosotros.</p>
-        <nuxt-link to="/contacto"><b-btn variant="primary">Contacto</b-btn></nuxt-link>
+        <nuxt-link to="/contacto"><b-btn variant="primary">Habla con nosotros</b-btn></nuxt-link>
     </b-card>
   </section>
   <site-footer/>
@@ -135,7 +134,14 @@ components:{
     #servicios .jumbotron{
       background-color: transparent;
     }
-    
+    .contacto h2 {
+        margin-bottom: 1.2rem;
+    }
+  .portada-servicios {
+      max-width: 600px;
+      margin: auto;
+      padding-top: 4rem;
+  }  
 </style>
 
 

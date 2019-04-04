@@ -53,6 +53,9 @@ p {
   border: none;
   background-color: transparent;
 }
+.contacto {
+  padding: 1rem 0;
+}
  .navbar-nav a{
   color: rgba(255, 255, 255, 0.6);
 }
