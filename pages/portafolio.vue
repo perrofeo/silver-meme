@@ -233,6 +233,11 @@ components:{
 }
 </script>
 <style scoped>
+.navbar-light .navbar-toggler {
+    border-color: transparent;
+    background-color: rgba(255,255,255,1);
+    
+}
 
     .portada{
          background-image: url("~assets/GLAMMY_background_PORTAFOLIO.svg");

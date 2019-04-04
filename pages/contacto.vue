@@ -62,7 +62,7 @@ components:{
 </script>
 <style scoped>
   .portada {
-    background-position: center;
+    background-position: top;
   }
 </style>
 
