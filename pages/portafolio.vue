@@ -152,7 +152,7 @@ modelos y trabajos realizados." >
                 img-alt="image"
                 img-top>
             <p class="card-text">
-                Evento promocional Yota Nicaragua
+                Evento promocional Yota de Nicaragua
             </p>
         </b-card>
         <b-card class="opinion"
