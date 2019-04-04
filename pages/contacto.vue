@@ -76,23 +76,7 @@ components:{
   .portada {
     background-position: top;
   }
-  .nav--inline2 {
-    align-items: center;
-    justify-content: flex-start;
-    padding: 0.6rem 0;
-}
-.nav--inline2 ul {
-    align-items: center;
-    display: flex;
-    justify-content:center;
-    padding-inline-start: 0px;
-	padding-bottom: 0px;
-  list-style: none;
-  padding-left: 0;
-}
-.icon-tel {
-  margin-right: 30px;
-}
+  
 </style>
 
 <style>
@@ -121,6 +105,23 @@ components:{
       color: #424242;
       font-weight: 700;
     }
+    .nav--inline2 {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.6rem 0;
+}
+.nav--inline2 ul {
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    padding-inline-start: 0px;
+	padding-bottom: 0px;
+  list-style: none;
+  padding-left: 0;
+}
+.icon-tel {
+  margin-right: 30px;
+}
     @media (max-width: 768px) {
   .linkcont a{
     color: #424242 !important;
