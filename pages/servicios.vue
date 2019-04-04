@@ -30,7 +30,7 @@
         </b-jumbotron>
     </div>
   </div>      
-    <b-container class="bv-example-row text-center bv-example-row-flex-cols">
+    <b-container class="bv-example-row text-center bv-example-row-flex-cols servicios">
     <b-row>
         <b-col md="6" lg="4"><div>
     <b-card :img-src="require('../static/Serv_Modelos-Edecanes.jpg')"
@@ -141,6 +141,9 @@ components:{
       margin: auto;
       padding-top: 4rem;
   }  
+  .servicios {
+      padding-bottom: 4rem;
+  }
 </style>
 
 
