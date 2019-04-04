@@ -37,7 +37,7 @@
 				</li>
 				<li>
 					<a href="https://www.instagram.com/glammymodelos1/" target="_blank" rel="noopener">
-						<img src="~/assets/icon-ig.svg" class="icon" width="32" icon-instagram>
+						<img src="~/assets/icon-ig.svg" class="icon" width="32" alt="icon-instagram">
 					</a>
 				</li>
 			</ul>
