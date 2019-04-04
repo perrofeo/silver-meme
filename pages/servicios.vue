@@ -132,7 +132,7 @@ components:{
   min-height: 50vh;
 }
     .portada{
-         background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
+         background-image: url("~assets/GLAMMY_background_SERVICIOS2.svg");
          min-height: 60vh;
          background-position: top;
     }

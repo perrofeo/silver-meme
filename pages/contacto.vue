@@ -40,7 +40,6 @@
         <p>Si buscas un equipo profesional y creativo para
 que tu evento o acción de marketing se vuelva
 todo un éxito, contáctanos.</p>
-        </b-col>
         <div class="nav--inline2">
 			<ul>
 				<li>
@@ -55,6 +54,11 @@ todo un éxito, contáctanos.</p>
 				</li>
 			</ul>
 		</div>
+        <p>Llámanos al<br>
+        <a href="tel:+50585014766" target="_blank" rel="noopener">+505 85014766</a></p>
+        <p>Correo electrónico<br>
+          <a href="mailto:contacto@glammymodelos.com">contacto@glammymodelos.com</a></p>
+        </b-col>
     </b-row>
 </b-container>
 
@@ -79,14 +83,18 @@ components:{
     background-position: top;
   }
   .nav--inline2 {
-    margin: auto;
-  }
-  .nav--inline2 ul {
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.6rem 0;
+}
+.nav--inline2 ul {
     align-items: center;
     display: flex;
-    margin: 0;
-    list-style: none;
-    padding-left: 0;
+    justify-content:center;
+    padding-inline-start: 0px;
+	padding-bottom: 0px;
+  list-style: none;
+  padding-left: 0;
 }
 .icon-tel {
   margin-right: 30px;
@@ -112,7 +120,12 @@ components:{
       padding-top: 100px;
     }
     .text-contacto {
-      max-width: 600px;;
+      max-width: 600px;
+      padding: 2rem 0;
+    }
+    .text-contacto a {
+      color: #424242;
+      font-weight: 700;
     }
     @media (max-width: 768px) {
   .linkcont a{
