@@ -95,12 +95,12 @@ modelos y trabajos realizados." >
                 Thalia Aguirre
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Modelo5_Rachel-Chollette.jpg')"
+        <b-card :img-src="require('../static/Modelo5_Rachell-Chollette.jpg')"
                 img-fluid
                 img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
-                Rachel Chollette
+                Rachell Chollette
             </p>
         </b-card>
     </b-card-group>
