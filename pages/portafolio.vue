@@ -216,6 +216,15 @@ modelos y trabajos realizados." >
                 Inauguración Little Fellas Matagalpa
             </p>
         </b-card>
+        <b-card class="video">
+             <b-embed
+    type="iframe"
+    aspect="16by9"
+    src="https://www.youtube.com/embed/CPTQ1Uh4BYk?rel=0"
+    allowfullscreen
+  ></b-embed>   
+            
+        </b-card>
     </b-card-group>
         </b-container>
     </section>
