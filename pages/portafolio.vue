@@ -72,10 +72,10 @@ modelos y trabajos realizados." >
                 text-variant="white">
             <blockquote class="card-blockquote">
                 <p>
-                    “Trabajar con las modelos de Glammy ha sido toda una experiencia de profesionalismo y tranquilidad. Además nuestros clientes no podrían haber quedado más encantados.”
+                    “Las muchachas son lindas, bonitas, coquetas, divertidas y hacen que resalten nuestros eventos. ¡Glammy tiene las mejores, las #1!”
                 </p>
                 <footer>
-                    <small>Jonathan González, CEO <cite title="Source Title">Woods Lounge Bar</cite></small>
+                    <small><cite title="Source Title">Bliss Lounge, Estelí</cite></small>
                 </footer>
             </blockquote>
         </b-card>
