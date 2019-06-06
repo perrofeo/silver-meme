@@ -150,6 +150,13 @@ components:{
   .servicios {
       padding-bottom: 4rem;
   }
+  .servicios img {
+    height: auto;
+}
+  .card-img {
+    width: 100%;
+    border-radius: calc(.25rem - 1px);
+  }
   @media (max-width: 768px) {
   .portada{
          background-image: url("~assets/GLAMMY_background_SERVICIOS.svg");
