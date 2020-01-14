@@ -26,7 +26,8 @@
     "event-stream": "^3.3.4",
     "nuxt": "^2.0.0",
     "nuxt-fontawesome": "^0.3.0",
-    "vue-scrollto": "^2.15.0"
+    "vue-scrollto": "^2.15.0",
+    "webpack-bundle-analyzer": "3.3.2"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
