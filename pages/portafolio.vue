@@ -60,14 +60,14 @@ modelos y trabajos realizados." >
             </p>
         </b-card>
         
-        <b-card :img-src="require('../static/Modelo2_Nahomi-Espinoza.jpg')"
+        <!-- <b-card :img-src="require('../static/Modelo2_Nahomi-Espinoza.jpg')"
                 img-fluid
                 img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Nahomi Espinoza
             </p>
-        </b-card>
+        </b-card> -->
         <b-card class="opinion"
                 text-variant="white">
             <blockquote class="card-blockquote">
@@ -87,14 +87,14 @@ modelos y trabajos realizados." >
                 Belén Blandon
             </p>
         </b-card>
-        <b-card :img-src="require('../static/Modelo4_Thalia-Aguirre.jpg')"
+        <!-- <b-card :img-src="require('../static/Modelo4_Thalia-Aguirre.jpg')"
                 img-fluid
                 img-alt="modelo Glammy"
                 img-top>
             <p class="card-text">
                 Thalia Aguirre
             </p>
-        </b-card>
+        </b-card> -->
         <b-card :img-src="require('../static/Modelo5_Rachell-Chollette.jpg')"
                 img-fluid
                 img-alt="modelo Glammy"
